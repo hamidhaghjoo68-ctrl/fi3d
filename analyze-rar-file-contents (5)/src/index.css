@@ -1,0 +1,359 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #17111f;
+  --color-panel: #241b30;
+  --color-panel2: #2c203b;
+  --color-line: #3a2c46;
+  --color-ink: #f5eff9;
+  --color-muted: #b4a5c2;
+  --color-purple: #b495f0;
+  --color-purple2: #8960c5;
+  --color-gold: #f2ca7c;
+  --color-grass: #8dd6b5;
+  --color-rose: #f499a7;
+  --font-sans: Vazirmatn, Tahoma, system-ui, sans-serif;
+}
+
+:root {
+  color-scheme: dark;
+  --bg: #17111f;
+  --panel: #241b30;
+  --panel2: #2c203b;
+  --line: #3a2c46;
+  --text: #f5eff9;
+  --muted: #b4a5c2;
+  --purple: #b495f0;
+  --purple2: #8960c5;
+  --gold: #f2ca7c;
+  --green: #8dd6b5;
+  --red: #f499a7;
+  --radius: 19px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: Vazirmatn, Tahoma, sans-serif;
+  font-size: 14px;
+  line-height: 1.85;
+  -webkit-font-smoothing: antialiased;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+  color: inherit;
+}
+button {
+  cursor: pointer;
+}
+button:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+img {
+  max-width: 100%;
+  display: block;
+}
+::selection {
+  background: #8960c5;
+  color: #fff;
+}
+:focus-visible {
+  outline: 3px solid var(--gold);
+  outline-offset: 3px;
+}
+
+::-webkit-scrollbar {
+  width: 9px;
+  height: 9px;
+}
+::-webkit-scrollbar-track {
+  background: #1d1527;
+}
+::-webkit-scrollbar-thumb {
+  background: #3f2f50;
+  border-radius: 9px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #533e68;
+}
+
+/* ---------- ساختار پوسته ---------- */
+.gm-panel {
+  border: 1px solid var(--line);
+  background: var(--panel);
+  border-radius: var(--radius);
+}
+
+.gm-nav-item {
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  padding: 11px 15px;
+  border-radius: 11px;
+  color: #bdb0cc;
+  transition: background 0.2s, color 0.2s;
+  width: 100%;
+  text-align: right;
+  background: none;
+  border: 0;
+}
+.gm-nav-item:hover {
+  background: #2c2039;
+  color: #fff;
+}
+.gm-nav-item[data-active="true"] {
+  color: #e6d7ff;
+  background: linear-gradient(110deg, #3b2850, #33223f);
+  box-shadow: inset -3px 0 var(--purple);
+}
+.gm-nav-item[data-active="true"] svg {
+  color: var(--purple);
+}
+
+/* ---------- دکمه‌ها ---------- */
+.btn {
+  border: 1px solid transparent;
+  border-radius: 11px;
+  padding: 10px 19px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 9px;
+  background: var(--gold);
+  color: #302132;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 1.7;
+  min-height: 42px;
+  transition: transform 0.15s, box-shadow 0.2s, background 0.2s;
+}
+.btn:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 22px #e8bd4926;
+}
+.btn.primary {
+  background: #ad88e4;
+  color: #21152e;
+}
+.btn.secondary {
+  color: #ddccea;
+  background: #3a294b;
+  border-color: #5a406c;
+}
+.btn.secondary:hover:not(:disabled) {
+  background: #47315b;
+  color: #fff;
+}
+.btn.ghost {
+  color: var(--muted);
+  background: transparent;
+  border-color: var(--line);
+}
+.btn.ghost:hover:not(:disabled) {
+  color: #fff;
+  border-color: #6b5182;
+}
+.btn.danger {
+  background: #512938;
+  color: #ffc3cd;
+  border-color: #7c3a4b;
+}
+.btn.sm {
+  padding: 5px 12px;
+  min-height: 34px;
+  font-size: 11px;
+}
+.btn.full {
+  width: 100%;
+}
+
+.pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 3px 10px;
+  border-radius: 6px;
+  font-size: 10px;
+  background: #3c2b4d;
+  color: #c5a8ed;
+  white-space: nowrap;
+}
+.pill.gold {
+  background: #493723;
+  color: var(--gold);
+}
+.pill.green {
+  background: #243d37;
+  color: var(--green);
+}
+.pill.red {
+  background: #4e2938;
+  color: #ffc0cd;
+}
+
+.field {
+  width: 100%;
+  background: #1f1729;
+  border: 1px solid #3a2c46;
+  border-radius: 11px;
+  padding: 10px 14px;
+  font-size: 13px;
+  outline: none;
+  transition: border-color 0.2s;
+}
+.field:focus {
+  border-color: var(--purple2);
+}
+
+/* ---------- کارت موضوع ---------- */
+.cat-card {
+  border: 1px solid var(--line);
+  background: linear-gradient(160deg, #271d33, #211929);
+  border-radius: 16px;
+  overflow: hidden;
+  transition: transform 0.2s, border-color 0.2s;
+  text-align: right;
+  width: 100%;
+  display: block;
+}
+.cat-card:hover {
+  transform: translateY(-4px);
+  border-color: var(--cat-color, #8f65b2);
+}
+
+/* ---------- گزینه‌های پاسخ ---------- */
+.answer {
+  width: 100%;
+  text-align: right;
+  border: 1px solid #402f52;
+  background: #271d34;
+  border-radius: 14px;
+  padding: 14px 18px;
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  font-size: 14px;
+  transition: transform 0.15s, border-color 0.2s, background 0.2s;
+}
+.answer:hover:not(:disabled) {
+  border-color: var(--purple2);
+  background: #30243f;
+  transform: translateX(-3px);
+}
+.answer[data-state="correct"] {
+  border-color: #47936f;
+  background: #1f3b31;
+  color: #c8f2dd;
+}
+.answer[data-state="wrong"] {
+  border-color: #8d4256;
+  background: #3c2130;
+  color: #ffc9d3;
+}
+.answer[data-state="muted"] {
+  opacity: 0.45;
+}
+.answer .key {
+  width: 26px;
+  height: 26px;
+  border-radius: 8px;
+  background: #3b2b4d;
+  display: grid;
+  place-items: center;
+  font-size: 11px;
+  flex-shrink: 0;
+  color: #c9b3e8;
+}
+
+@keyframes gm-float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-12px);
+  }
+}
+.gm-float {
+  animation: gm-float 6s ease-in-out infinite;
+}
+
+@keyframes gm-pop {
+  from {
+    opacity: 0;
+    transform: translateY(10px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.gm-pop {
+  animation: gm-pop 0.32s ease;
+}
+
+@keyframes gm-sheen {
+  from {
+    background-position: 200% 0;
+  }
+  to {
+    background-position: -200% 0;
+  }
+}
+.gm-sheen {
+  background: linear-gradient(90deg, #3b2850, #6b4f8d, #3b2850);
+  background-size: 200% 100%;
+  animation: gm-sheen 1.6s linear infinite;
+}
+
+/* ---------- گرافیک حرکتی (الهام از bixa.ai) ---------- */
+.gm-motion { position: relative; overflow: hidden; isolation: isolate; }
+.gm-motion::before { content: ""; position: absolute; inset: -40%; z-index: -2;
+  background: conic-gradient(from 0deg at 50% 50%, #8960c555, #f2ca7c33, #2f8f8333, #b24a5c33, #8960c555);
+  filter: blur(60px); animation: gm-spin 18s linear infinite; }
+.gm-motion::after { content: ""; position: absolute; inset: 0; z-index: -1;
+  background-image: linear-gradient(#ffffff08 1px, transparent 1px), linear-gradient(90deg, #ffffff08 1px, transparent 1px);
+  background-size: 34px 34px; mask-image: radial-gradient(ellipse at 30% 40%, #000 20%, transparent 75%); animation: gm-grid 12s linear infinite; }
+@keyframes gm-spin { to { transform: rotate(360deg); } }
+@keyframes gm-grid { to { background-position: 34px 34px; } }
+.gm-orb { position: absolute; border-radius: 50%; filter: blur(2px); opacity: .7; animation: gm-drift 9s ease-in-out infinite; pointer-events: none; }
+@keyframes gm-drift { 0%,100% { transform: translate(0,0) scale(1); } 33% { transform: translate(18px,-22px) scale(1.08); } 66% { transform: translate(-14px,12px) scale(.94); } }
+.gm-reveal-text { background: linear-gradient(90deg, #f5eff9, #f2ca7c, #b495f0, #f5eff9); background-size: 300% 100%; -webkit-background-clip: text; background-clip: text; color: transparent; animation: gm-sheen 6s linear infinite; }
+.gm-glow { box-shadow: 0 0 0 0 #f2ca7c88; animation: gm-pulse 2.2s infinite; }
+@keyframes gm-pulse { 0% { box-shadow: 0 0 0 0 #f2ca7c77; } 70% { box-shadow: 0 0 0 12px #f2ca7c00; } 100% { box-shadow: 0 0 0 0 #f2ca7c00; } }
+
+/* ---------- ورود مرحله‌ای سؤال ---------- */
+@keyframes gm-bg-in { from { opacity: 0; transform: scale(.92); filter: blur(8px); } to { opacity: 1; transform: none; filter: none; } }
+@keyframes gm-q-in { from { opacity: 0; transform: translateY(-18px) scale(.96); letter-spacing: .08em; } to { opacity: 1; transform: none; letter-spacing: normal; } }
+@keyframes gm-opt-in { from { opacity: 0; transform: translateX(-30px) rotateY(25deg); } to { opacity: 1; transform: none; } }
+.gm-bg-in { animation: gm-bg-in .38s cubic-bezier(.2,.8,.2,1) both; }
+.gm-q-in { animation: gm-q-in .45s cubic-bezier(.2,.8,.2,1) both; }
+.gm-opt-in { animation: gm-opt-in .42s cubic-bezier(.2,.8,.2,1) both; }
+@keyframes gm-shake { 0%,100% { transform: none; } 20%,60% { transform: translateX(-6px); } 40%,80% { transform: translateX(6px); } }
+.gm-shake { animation: gm-shake .4s; }
+@keyframes gm-correct { 0% { box-shadow: 0 0 0 0 #8dd6b5aa; } 100% { box-shadow: 0 0 0 16px #8dd6b500; } }
+.answer[data-state="correct"] { animation: gm-correct .7s; }
+
+/* ---------- ایموجی کل‌کل ---------- */
+@keyframes gm-emoji-fly { 0% { opacity: 0; transform: translate(-50%, 40px) scale(.3); } 25% { opacity: 1; transform: translate(-50%, -20px) scale(2.6); } 70% { opacity: 1; transform: translate(-50%, -30px) scale(2.2); } 100% { opacity: 0; transform: translate(-50%, -90px) scale(1.2); } }
+.gm-emoji-fly { position: absolute; left: 50%; top: 0; font-size: 34px; animation: gm-emoji-fly 2.2s ease forwards; pointer-events: none; z-index: 20; }
+@keyframes gm-slide-down { from { opacity: 0; transform: translateY(-24px); } to { opacity: 1; transform: none; } }
+.gm-toast { animation: gm-slide-down .35s cubic-bezier(.2,.8,.2,1); }
