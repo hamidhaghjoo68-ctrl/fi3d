@@ -1,0 +1,1107 @@
+﻿================================================================
+چرخه‌ی تحقق خواسته در آینه‌ی داستان‌های قرآن
+تحلیل تطبیقی هفت مرحله، روش بازخوانی معکوس آیات و جدول تطبیق پیامبران
+
+The Cycle of Desire Realization in the Mirror of Quranic Narratives
+A comparative analysis of the seven stages, a reverse verse-mapping method, and the correspondence table of the prophets
+بر پایه‌ی سه درخواست صوتی پژوهشی و متون منتشرشده‌ی استاد حاج نصرالله باستین
+Based on three audio research requests and the published texts of Master Haj Nasrollah Bastin
+================================================================
+
+چکیده / ABSTRACT
+این کتاب پاسخ علمی به سه درخواست صوتی استاد حاج نصرالله باستین است. درخواست نخست، تجزیه‌ی داستان‌های قرآنی در هفت مرحله‌ی «چرخه‌ی تحقق خواسته» است. درخواست دوم، جست‌وجوی معکوس آیاتی است که با هر مرحله تطبیق می‌یابند. درخواست سوم، تلفیق دو خروجی برای افزایش دقت و کاهش خطا و شناسایی الگوهای تکرارشونده‌ای است که ممکن است به «کانون مصوب» تبدیل شوند. روش کار سه‌مرحله‌ای است: رمزگذاری نقاط چرخش سیزده روایت، تطبیق معکوس ایستگاه‌ها با آیات، و تلفیق سنجیده‌ی هر دو مسیر. محصول اصلی، جدول تطبیق سیزده پیامبر و شخصیت قرآنی است که برای هر یک، نقطه‌ی چرخش، آیه، ایستگاه و درس مشخص شده است. ادعای نهایی آموزه، یعنی تحقق خواسته برای هر کس که به قوانین این چرخه عمل کند، به‌صورت فرضیه‌ای آزمون‌پذیر صورت‌بندی و نقد شده و به‌عنوان حقیقتی اثبات‌شده ارائه نمی‌شود.
+This book is a scientific response to three audio research requests of Master Haj Nasrollah Bastin. The first asks for a decomposition of Quranic narratives along the seven stages of the Cycle of Desire Realization. The second asks for a reverse search that identifies verses matching each stage. The third asks for the integration of both outputs to increase precision and reduce error, and to detect recurring patterns that may become an established center. The method has three phases: coding the turning points of thirteen narratives, reverse-mapping the stations onto verses, and a cross-checked integration of both directions. The main product is a correspondence table of thirteen prophets and Quranic figures, each with a turning point, a verse, a station, and a lesson. The teaching’s final claim, that anyone who acts by these laws attains the desired outcome, is formulated as a testable hypothesis and critically assessed. It is not presented as a proven fact.
+
+واژگان کلیدی: چرخه‌ی تحقق خواسته؛ ایمان به غیب؛ مسئولیت فردی؛ ورودی‌های ذهن؛ فرکانس؛ هدایت؛ تأیید؛ داستان‌های قرآن؛ جدول تطبیق؛ کانون مصوب
+Keywords: Cycle of desire realization; faith in the unseen; individual responsibility; mental inputs; frequency; guidance; affirmation; Quranic narratives; correspondence table; established center
+
+NOTE: یادداشت روش‌شناختی: سه درخواست صوتی با سامانه‌ی تبدیل گفتار به متن خودکار رونویسی شدند و رونوشت خطاهای شنیداری دارد. معنای درخواست‌ها با تطبیق متن‌ها، کتاب‌ها و نمودار «چرخه‌ی تحقق خواسته» بازسازی شد. این کتاب پیش‌نویس تحلیلی است و جایگزین مشاوره‌ی پزشکی، روان‌شناختی یا حقوقی نیست.
+NOTE: Methodological note: The three audio requests were transcribed by an automatic speech-to-text model, and the transcripts contain recognition errors. Their meaning was reconstructed by cross-checking the master’s published texts and the cycle diagram. This is an analytical draft and does not replace medical, psychological, or legal advice.
+
+================================================================
+پیش‌گفتار: دستانی که دیده نمی‌شوند
+Preface: Hands That Are Not Seen
+================================================================
+
+این کتاب از دل یک درخواست پژوهشی بیرون آمده است. استاد حاج نصرالله باستین در سه پیام صوتی از ما خواسته‌اند داستان‌های قرآنی را در چارچوب «چرخه‌ی تحقق خواسته» تحلیل کنیم، جای هر آیه را در هفت ایستگاه این چرخه پیدا کنیم و در پایان دو مسیر تحلیل را در هم بسنجیم تا دقت بالاتر و خطای کمتری داشته باشیم.
+This book emerged from a research request. In three voice messages, Master Haj Nasrollah Bastin asked us to analyze Quranic narratives within the framework of the Cycle of Desire Realization, to locate the verses corresponding to each of its seven stations, and finally to compare the two analytical directions so that precision would rise and error would fall.
+
+درخواست نخست، تجزیه‌ی تمام داستان‌های قرآنی، به‌ویژه سرگذشت پیامبران و اقوام، در مراحل هفت‌گانه بود. درخواست دوم عکس این مسیر بود: از هر ایستگاه آغاز کنیم و آیاتی را بیابیم که در آن ایستگاه جای می‌گیرند. درخواست سوم ترکیب دو خروجی بود تا الگوهای تکرارشونده شناسایی شوند. وقتی الگویی به‌اندازه‌ی کافی تکرار شود، می‌تواند «کانون مصوب» نامیده شود. استاد همچنین گفتند که هرکس در هر نقطه‌ی جهان بر پایه‌ی این قوانین عمل کند، به نتیجه‌ی خواسته‌اش می‌رسد. این ادعا در بخش‌های بعدی به‌عنوان فرضیه بررسی می‌شود.
+The first request was to decompose all Quranic narratives, especially those of prophets and peoples, along the seven stages. The second request reversed the direction: start from each station and find the verses that belong to it. The third request was to combine both outputs so that recurring patterns could be identified. When a pattern repeats often enough, it may be called an established center. The master also stated that anyone who acts according to these laws, anywhere in the world, reaches the outcome they seek. This claim is examined in later chapters as a hypothesis.
+
+نمونه‌ی مورد نظر استاد، صفحه‌ی ۲۱۳ کتاب «هفت ایستگاه غیب» با عنوان «جدول تطبیق» است. این جدول پنج ستون دارد: پیامبر یا شخص، نقطه‌ی چرخش، آیه، ایستگاه و درس. کتاب حاضر این ساختار را گسترش می‌دهد، برای هر ستون روش‌شناسی صریح ارائه می‌کند و بخش مقایسه‌ای را به‌طور کامل می‌آورد.
+The model provided by the master is page 213 of the book “Haft Istgah-e Ghayb” (The Seven Stations of the Unseen), entitled “Correspondence Table”. It has five columns: person or figure, turning point, verse, station, and lesson. The present book extends this structure, supports each column with an explicit method, and presents the comparison section in full.
+
+کتاب در چهار بخش تنظیم شده است. بخش یکم مبانی نظری و دوازده گزاره‌ی آزمون‌پذیر را می‌آورد. بخش دوم روش‌شناسی سه‌مرحله‌ای را شرح می‌دهد. بخش سوم تحلیل سیزده روایت و بخش مقایسه‌ای را ارائه می‌کند. بخش چهارم تلفیق، نقد علمی، کاربرد عملی و جمع‌بندی را در بر دارد. در پایان، واژه‌نامه، فهرست آیات و منابع آمده است.
+The book has four parts. Part I sets out the theoretical foundations and twelve testable propositions. Part II explains the three-phase methodology. Part III presents the analysis of thirteen narratives and the comparison section. Part IV covers integration, scientific critique, practical application, and conclusions. A glossary, an index of verses, and the sources close the volume.
+
+یک نکته‌ی روشی باید از همان ابتدا روشن باشد. این کتاب خوانشی درون‌چارچوبی از متن قرآن ارائه می‌دهد؛ یعنی تطبیق آیات با مدل چرخه را آزمون می‌کند و جای تفسیر کلاسیک و الهیات تفسیری را نمی‌گیرد. هر قضاوت در این کتاب، بسته به شواهد متنی و منطق مدل، مشروط و قابل نقد است.
+One methodological point must be clear from the outset. This book offers an in-framework reading of the Quranic text. It tests the correspondence between verses and the cycle model, and it does not replace classical exegesis or theological interpretation. Every judgment in this book is conditional on textual evidence and on the logic of the model, and remains open to critique.
+
+================================================================
+بخش یکم: مبانی نظری
+Part I: Theoretical Foundations
+================================================================
+
+================================================================
+فصل اول: ایمان به غیب و نقشه‌ی چرخه
+Chapter 1: Faith in the Unseen and the Map of the Cycle
+================================================================
+
+۱.۱ غیب به‌عنوان قلمرو عملیاتی
+1.1 The Unseen as an Operational Domain
+
+در این کتاب «غیب» به معنای امور نامشهودی است که اثرشان در زندگی آدمی دیده می‌شود، اما خودشان در معرض حس مستقیم نیستند. ایمان به غیب در متن قرآن از نخستین ویژگی‌های پرهیزگاران شمرده شده است (بقره ۲:۳). این کتاب آن را به یک نظام رفتاری قابل مشاهده فرو می‌کاهد و به پرسشی پژوهش‌پذیر تبدیل می‌کند: آیا رفتارهای برآمده از این ایمان با نتایج قابل‌سنجش همراه‌اند؟
+In this book, “the unseen” (ghayb) denotes realities that are not directly sensed but whose effects are observable in human life. Faith in the unseen is named among the first attributes of the God-conscious in the Quran (al-Baqara 2:3). Here it is reduced to an observable behavioral system, so that it becomes a researchable question: do behaviors arising from this faith correlate with measurable outcomes?
+
+۱.۲ ساختار چرخه: هفت مرحله و یک نقطه‌ی بازگشت
+1.2 The Structure of the Cycle: Seven Stages and a Return Point
+
+چرخه‌ی تحقق خواسته یک الگوی هفت‌مرحله‌ای است که در نمودار استاد به شکل دایره ترسیم شده است. نمودار دو پیکان دارد: یکی «شروع چرخه» و دیگری «پایان چرخه و تحقق خواسته». نقطه‌ی بالای دایره که عدد ۶ روی آن نوشته شده، هم‌زمان نقطه‌ی پایان مرحله‌ی ششم و محل شروع دوباره‌ی چرخه است. به همین دلیل، مرحله‌ی هفتم، یعنی تحقق خواسته و آغاز هدف بعدی، به نقطه‌ی آغاز چرخه‌ی بعدی بازمی‌گردد.
+The Cycle of Desire Realization is a seven-stage pattern, drawn in the master’s diagram as a circle. The diagram carries two arrows, “start of the cycle” and “end of the cycle and realization of desire”. The top point of the circle, labeled 6, marks both the end of the sixth stage and the point at which the cycle restarts. Accordingly, the seventh stage, the realization of the desire and the beginning of the next goal, returns to the start of the next cycle.
+
+  ۱. مسئولیت فردی / ۲. ورودی‌های ذهن / ۳. ارسال فرکانس / ۴. سیستم رادیویی جهان / ۵. هدایت / ۶. تأیید (صدق بالحسنی)
+  شکل ۱. چرخه‌ی تحقق خواسته: شش بخش دایره و نقطه‌ی بازگشت در بالا، بر پایه‌ی نمودار استاد. مرحله‌ی هفتم در نقطه‌ی بالا، جایی که پایان و آغاز چرخه یکی می‌شوند، قرار دارد.
+  Figure 1. The Cycle of Desire Realization: six sectors around the circle and the return point at the top, after the master’s diagram. The seventh stage sits at the top point, where the end and the beginning of the cycle coincide.
+
+هر مرحله کارکردی روشن دارد. مرحله‌ی نخست پذیرش مسئولیت فردی است. مرحله‌ی دوم کنترل ورودی‌های ذهن و هم‌جهت شدن آن‌ها با جریان خداوند است. مرحله‌ی سوم ارسال فرکانس‌های ناب و خالص است. مرحله‌ی چهارم پذیرش این است که جهان نظامی قانون‌مند برای دریافت این فرکانس‌ها دارد. مرحله‌ی پنجم هدایت است که در نگاه آموزه از «دستان خدا» می‌رسد. مرحله‌ی ششم تأیید این هدایت به‌عنوان هدایت الهی است و مرحله‌ی هفتم تحقق خواسته و آغاز هدف بعدی.
+Each stage has a distinct function. Stage one is the acceptance of individual responsibility. Stage two concerns the control of the mind’s inputs and their alignment with the current of the divine. Stage three is the sending of pure and sincere frequencies. Stage four is the recognition that the world operates as a lawful system that receives these frequencies. Stage five is guidance, which in the teaching arrives “through God’s hands”. Stage six is the affirmation that this guidance originates from God. Stage seven is the realization of the desire and the start of the next goal.
+
+مرحله | نام مرحله | فاز تقریبی | کارکرد
+----------------------------------------
+۱ | مسئولیت فردی | فاز ۰ تا ۱ | پذیرش صددرصد مسئولیت خلق حال و روز
+۲ | ورودی‌های ذهن انسان | فاز ۱ تا ۲ | صبر، صلات، سیر تکاملی و رفع موانع
+۳ | ارسال فرکانس‌های ناب و خالص | فاز ۲ تا ۳ | توجه صددرصد پیش از آغاز کار
+۴ | سیستم رادیویی جهان | فاز ۳ تا ۴ | دریافت فرکانس‌ها از طریق قوانین تغییرناپذیر جهان
+۵ | هدایت به‌وسیله‌ی دستان خدا | فاز ۴ تا ۵ | دریافت راهنمایی در قالب رویدادها و آدم‌ها
+۶ | تأیید، صدق بالحسنی | فاز ۵ تا ۶ | پذیرش اینکه هدایت از سمت خداست
+۷ | تحقق خواسته و آغاز هدف بعدی | نقطه‌ی بازگشت | پایان چرخه و آغازی دوباره
+
+Stage | Name | Approximate phase | Function
+----------------------------------------
+1 | Individual responsibility | Phase 0 to 1 | Full acceptance of responsibility for one’s state
+2 | Inputs of the mind | Phase 1 to 2 | Patience, attention, progression, and removal of obstacles
+3 | Sending pure frequencies | Phase 2 to 3 | Full attention before beginning the work
+4 | Universal radio system | Phase 3 to 4 | Reception of frequencies through the unchanging laws of the world
+5 | Guidance through God’s hands | Phase 4 to 5 | Receiving guidance in events and through people
+6 | Affirmation (sadaqa bi-l-husna) | Phase 5 to 6 | Affirming that the guidance comes from God
+7 | Realization and next goal | Return point | End of the cycle and a new beginning
+
+۱.۳ مرحله‌ی یکم: مسئولیت فردی
+1.3 Stage One: Individual Responsibility
+
+نخستین جمله‌ی چرخه این است: «من صددرصد مسئول خلق حال و روز خودم هستم.» این جمله در نگاه آموزه سنگین است، اما با سرزنش فرق دارد. مسئولیت یعنی توان پاسخ‌گویی و انتخاب در زمان حال؛ تقصیر یعنی محکوم کردن خود برای گذشته. این تمایز برای پژوهش اهمیت دارد، زیرا گزاره‌ی P1 بر آن استوار است: کسانی که مسئولیت را به عوامل درونی نسبت می‌دهند، در برابر موانع رفتار فعال‌تری نشان می‌دهند.
+The first sentence of the cycle is: “I am one hundred percent responsible for creating my own state and my days.” In the teaching this sentence is demanding, yet it differs from self-blame. Responsibility means the capacity to respond and choose in the present; blame means condemning oneself for the past. The distinction matters for research, because proposition P1 rests on it: people who attribute their life to internal factors display more active behavior in the face of obstacles.
+
+۱.۴ گزاره‌ی بنیادین و نقد آن
+1.4 The Foundational Proposition and Its Critique
+
+هسته‌ی علمی مرحله‌ی نخست این پرسش است که آیا کنترل درونی ادراک‌شده بر نتایج با رفتار هدفمند همبسته است. این پرسش را می‌توان با پژوهش‌های روان‌شناسی درباره‌ی مرکز کنترل (locus of control) مقایسه کرد. اما هیچ‌یک از آن پژوهش‌ها ادعای نهایی آموزه، یعنی تضمین نتیجه، را تأیید نمی‌کند. از این رو، بخش‌های بعدی میان «همبستگی رفتاری» و «تضمین ماورایی» تفکیک می‌کنند.
+The core scientific question of Stage One is whether a perceived internal control over outcomes correlates with purposeful behavior. The question can be compared with psychological research on perceived control, known as locus of control. None of that research confirms the teaching’s ultimate claim, that outcomes are guaranteed. The later chapters therefore distinguish between behavioral correlation and metaphysical guarantee.
+
+================================================================
+فصل دوم: ورودی‌های ذهن و چهار اصل آن
+Chapter 2: Mental Inputs and Their Four Principles
+================================================================
+
+مرحله‌ی دوم درباره‌ی ورودی‌های ذهن است: آنچه می‌شنویم، می‌بینیم و در درون خود تکرار می‌کنیم. آموزه معتقد است ورودی‌ها باید با جریان خداوند هم‌جهت شوند. این هم‌جهتی بر چهار اصل استوار است که در نمودار استاد به‌صورت کوتاه آمده است.
+Stage Two concerns the inputs of the mind: what we hear, see, and repeat inwardly. The teaching holds that these inputs should be aligned with the current of the divine. This alignment rests on four principles, summarized in the master’s diagram.
+
+  • اصل اول: صبر، یعنی فاصله‌ی زمانی میان آغاز کار و رسیدن به هدف
+  • اصل دوم: صلات، یعنی توجه و تمرکز صددرصد بر هدف
+  • اصل سوم: طی کردن سیر تکاملی و تصاعدی برای رسیدن به هدف
+  • اصل چهارم: رفع موانع ذهنی، که در نمودار دوازده مورد دارد
+  • Principle one: patience, meaning the time gap between starting and reaching the goal
+  • Principle two: salat, meaning full attention and focus on the goal
+  • Principle three: moving through an evolutionary and exponential path toward the goal
+  • Principle four: removing mental obstacles, which the diagram lists as twelve items
+
+صبر در این چارچوب فقط تحمل منفعلانه نیست؛ فاصله‌ی زمانی میان بذر و میوه است. صلات که در نمودار با «توجه و تمرکز صددرصد» ترجمه شده، کانون توجه را از نگرانی به هدف منتقل می‌کند. سیر تکاملی یعنی پیشرفت پلکانی و تصاعدی، نه جهش‌های ناگهانی. رفع موانع ذهنی به فهرست دوازده‌گانه‌ای می‌پردازد که در بخش ۲.۱ مرور می‌شود.
+In this framework, patience is not passive endurance. It is the time interval between seed and fruit. Salat, rendered in the diagram as “full attention and focus”, directs attention from worry toward the goal. Evolutionary progression means stepwise, exponential growth rather than sudden leaps. The removal of mental obstacles addresses a list of twelve items, reviewed in Section 2.1.
+
+۲.۱ ساختار دوازده مانع ذهنی
+2.1 The Structure of the Twelve Mental Obstacles
+
+شماره | مانع یا پادزهر (از نمودار) | خوانش تحلیلی (برداشت نویسنده)
+----------------------------------------
+۱ | وعده‌های شیطان | القای وعده‌های فریبنده و کوتاه‌مدت
+۲ | ماندن در فرکانس احساس گناه | بازتولید مداوم خطای گذشته به‌جای اصلاح آن
+۳ | مالیخولیا به نام غرور | پنهان شدن افسردگی زیر پوشش خودبزرگ‌بینی
+۴ | طلب‌کار بودن از آدم‌ها | انتظار جبران از دیگران و افزایش تلخی
+۵ | مشغله‌های ذهنی و فیزیکی | پراکندگی توجه که مانع صلات می‌شود
+۶ | پذیرش ندانستن نعمت‌های کنونی | فقدان شکرگزاری نسبت به حال موجود
+۷ | داشتن شخصیت کمال‌گرا | سخت‌گیری بیش از حد نسبت به خود و دیگران
+۸ | تأیید اینکه دیگران دستان خدا هستند | پادزهر: دیدن دیگران به‌عنوان واسطه‌ی هدایت
+۹ | درباره‌ی نازیبایی‌ها صحبت نکردن | پادزهر: گفتار نیک، پندار نیک و کردار نیک
+۱۰ | انسان فراموش‌کار است | پذیرش ضعف حافظه و بازیادآوری مکرر
+۱۱ | رسیدن به احساس شکرگزاری | پادزهر: تمرین شکر به‌عنوان یک فرکانس
+۱۲ | رسیدن به احساس لیاقت | پادزهر: پذیرش ارزش خود برای دریافت هدایت
+
+No. | Obstacle or antidote (from the diagram) | Analytical reading (author’s interpretation)
+----------------------------------------
+1 | Satan’s promises | Seductive short-term promises
+2 | Remaining in the frequency of guilt | Continual re-enactment of past error instead of correction
+3 | Melancholy disguised as pride | Depression hidden behind self-inflation
+4 | Being a creditor to people | Expecting repayment from others, which breeds bitterness
+5 | Mental and physical preoccupations | Scattered attention that blocks salat
+6 | Accepting not knowing present blessings | Lack of gratitude for the present state
+7 | Having a perfectionist personality | Excessive harshness toward oneself and others
+8 | Affirming that others are God’s hands | Antidote: seeing others as channels of guidance
+9 | Not speaking about ugliness | Antidote: good speech, good thought, and good deed
+10 | Humans are forgetful | Accepting weak memory and repeated re-remembering
+11 | Reaching the feeling of gratitude | Antidote: practicing gratitude as a frequency
+12 | Reaching the feeling of worthiness | Antidote: accepting one’s worth in order to receive guidance
+
+NOTE: یادداشت: موارد ۸، ۹، ۱۱ و ۱۲ در نمودار به‌صورت گزاره‌های مثبت آمده‌اند؛ در این کتاب آن‌ها پادزهر موانع خوانده می‌شوند. متن موارد از روی نمودار بازنویسی شده و ستون سوم برداشت نویسنده است.
+NOTE: Note: items 8, 9, 11, and 12 are phrased in the diagram as positive statements; this book reads them as antidotes to obstacles. The wording of the items is paraphrased from the diagram, and the third column is the author’s reading.
+
+================================================================
+فصل سوم: مدل مفهومی و دوازده گزاره‌ی آزمون‌پذیر
+Chapter 3: The Conceptual Model and Twelve Testable Propositions
+================================================================
+
+آموزه‌ی چرخه پیش از آنکه حکم کند، فرضیه می‌سازد. مدل در قالب دوازده گزاره‌ی پژوهشی (P1 تا P12) صورت‌بندی شده است. این گزاره‌ها ادعای اثبات‌شده نیستند؛ فرضیه‌هایی هستند که برای آزمون طراحی شده‌اند و ارزش این کتاب به همین آزمون‌پذیری بستگی دارد.
+Before passing judgment, the cycle’s teaching formulates hypotheses. The model is written as twelve research propositions (P1 to P12). These propositions are not proven claims; they are hypotheses designed for testing, and the value of this book depends on their testability.
+
+گزاره | متن گزاره | آزمون پیشنهادی
+----------------------------------------
+P1 | کسانی که مسئولیت زندگی را به عوامل درونی نسبت می‌دهند، در برابر موانع رفتار فعال‌تری دارند. | مقایسه‌ی گروهی و سنجش رفتار پس از مانع
+P2 | نوع و کیفیت ورودی‌های ذهنی (رسانه، گفتار، محیط) با سطح اضطراب و احساس کمبود رابطه دارد. | همبستگی‌سنجی و پرسش‌نامه‌ی ورودی
+P3 | تمرین روزانه‌ی توجه‌آگاهی به هدف با تعهد رفتاری بیشتری همراه است. | طرح پیش‌آزمون و پس‌آزمون
+P4 | دعا و بیان خواسته، هرگاه با عمل همراه شود، با احساس کنترل و آرامش بیشتر رابطه دارد. | طرح ترکیبی کمی-کیفی
+P5 | تصور جهان به‌عنوان نظام قانون‌مند با کاهش احساس بی‌معنایی و تصادفی بودن زندگی رابطه دارد. | مقیاس‌های جهان‌بینی و معناداری
+P6 | تفسیر رویدادهای مثبت به‌عنوان «هدایت» به‌جای «شانس» با شکرگزاری و بهزیستی بیشتر همراه است. | مقایسه‌ی تفسیرها و پیامدها
+P7 | شکرگزاری منظم با رضایت بیشتر از زندگی و کاهش نشانه‌های افسردگی همراه است. | بازبینی آزمایش‌های شکرگزاری (سازگار با Emmons & McCullough, 2003)
+P8 | استفاده از «زبان مسئولانه» به‌جای «زبان مقصرتراشانه» با خودکارآمدی بیشتر رابطه دارد. | تحلیل زبان و سنجش خودکارآمدی (سازگار با Bandura, 1997)
+P9 | نوشتن درباره‌ی نشانه‌های هدایت در «دفتر هدایت» با انسجام روایی و امید بیشتر رابطه دارد. | طرح روایت‌نگاری کیفی
+P10 | تعریف خواسته در چهار لایه‌ی حال، شرایط، مهارت و نتیجه با شفافیت هدف و کاهش تعارض انگیزشی همراه است. | تحلیل محتوای اهداف نوشته‌شده
+P11 | ترکیب باور به قانون‌مندی جهان و باور به دخالت الهی به دو نیم‌رخ «توکل فعال» و «توکل منفعل» می‌انجامد؛ تنها نیم‌رخ نخست با رفتار برنامه‌ریزی‌شده همراه است. | تحلیل خوشه‌ای نیم‌رخ‌ها
+P12 | مدل هفت‌مرحله‌ای در تحلیل عاملی اکتشافی و تأییدی ساختاری چندبعدی با برازش قابل‌قبول نشان می‌دهد. | تحلیل عاملی اکتشافی و تأییدی
+
+Proposition | Statement | Proposed test
+----------------------------------------
+P1 | People who attribute their life to internal factors act more actively when facing obstacles. | Group comparison and behavior after an obstacle
+P2 | The type and quality of mental inputs (media, speech, environment) correlate with anxiety and feelings of scarcity. | Correlational design and an input questionnaire
+P3 | Daily attention-awareness practice toward the goal is associated with stronger behavioral commitment. | Pre-test and post-test design
+P4 | Prayer and stating one’s desires, when accompanied by action, correlate with greater feelings of control and calm. | Mixed quantitative and qualitative design
+P5 | Viewing the world as a lawful system correlates with reduced feelings of meaninglessness and randomness. | Worldview and meaning-in-life scales
+P6 | Interpreting positive events as “guidance” rather than “chance” is associated with more gratitude and well-being. | Comparison of interpretations and outcomes
+P7 | Regular gratitude practice is associated with higher life satisfaction and fewer depressive symptoms. | Review of gratitude experiments (consistent with Emmons & McCullough, 2003)
+P8 | Using “responsible language” instead of “blame-seeking language” correlates with higher self-efficacy. | Language analysis and self-efficacy measurement (consistent with Bandura, 1997)
+P9 | Writing about signs of guidance in a “guidance journal” correlates with narrative coherence and hope. | Qualitative narrative design
+P10 | Defining a desire in four layers (present state, conditions, skill, outcome) is associated with goal clarity and less motivational conflict. | Content analysis of written goals
+P11 | Combining belief in universal law with belief in divine intervention may yield two profiles, “active trust” and “passive trust”; only the first is associated with planned behavior. | Cluster analysis of profiles
+P12 | The seven-stage model shows a multidimensional structure with acceptable fit in exploratory and confirmatory factor analysis. | Exploratory and confirmatory factor analysis
+
+هر گزاره به یک پرسش پژوهشی تبدیل شده است: اگر رابطه‌ی پیش‌بینی‌شده دیده نشود، آن بخش از مدل تضعیف می‌شود. این ساختار ابطال‌پذیری را تضمین می‌کند؛ یعنی مدل می‌تواند نادرست از کار درآید.
+Each proposition is converted into a research question. If the predicted relation is not observed, that part of the model is weakened. This structure secures falsifiability: the model can turn out to be wrong.
+
+================================================================
+بخش دوم: روش‌شناسی سه‌مرحله‌ای
+Part II: The Three-Phase Methodology
+================================================================
+
+================================================================
+فصل چهارم: پروتکل پژوهش و منطق تلفیق
+Chapter 4: Research Protocol and the Logic of Integration
+================================================================
+
+درخواست‌های صوتی سه مرحله‌ی کاری را معین می‌کنند. مرحله‌ی الف، تجزیه‌ی روایت‌ها است: هر داستان قرآنی به نقطه‌ی چرخش (آیه‌ای که جهت روایت در آن تغییر می‌کند) و ایستگاه مربوط تقسیم می‌شود. مرحله‌ی ب، تطبیق معکوس است: از هر ایستگاه آغاز می‌کنیم و آیاتی را می‌یابیم که منطق آن ایستگاه را بازتاب می‌دهند. مرحله‌ی ج، تلفیق است: دو مسیر را با هم می‌سنجیم و تنها تطبیق‌هایی را می‌پذیریم که در هر دو دیده شوند.
+The audio requests define three working phases. Phase A, decomposition: each Quranic narrative is divided into its turning point (the verse at which the direction of the narrative changes) and its corresponding station. Phase B, reverse mapping: starting from each station, we search for verses that reflect that station’s logic. Phase C, integration: the two directions are compared, and only correspondences that appear in both are accepted.
+
+منطق تلفیق بر این فرض استوار است که یک تطبیق واقعی باید از دو سو بازیابی شود. اگر آیه‌ای در مسیر روایت به ایستگاهی نسبت داده شود، اما جست‌وجوی معکوس برای همان ایستگاه آن آیه را بازنیابد، تطبیق ضعیف است. برعکس، تطبیقی که در هر دو مسیر پدیدار شود، پایداری بیشتری دارد. این همان معنای «افزایش دقت و کاهش خطا» در درخواست سوم است.
+The logic of integration rests on the premise that a genuine correspondence should be recoverable from both directions. If a verse is assigned to a station in the narrative direction but the reverse search for that station does not retrieve the verse, the correspondence is weak. Conversely, a correspondence that emerges in both directions is more stable. This is the meaning of “more precision and fewer errors” in the third request.
+
+۴.۱ معیارهای پذیرش تطبیق
+4.1 Criteria for Accepting a Correspondence
+
+  • معیار یک: آیه باید مستقیماً به نقطه‌ی چرخش روایت مربوط باشد، نه صرفاً به موضوع کلی داستان
+  • معیار دو: ایستگاه باید کارکرد غالب آیه را توضیح دهد، نه یک عنصر فرعی آن را
+  • معیار سه: درس باید دستورالعملی باشد که از آیه قابل استخراج است و بیش از حد تفسیر نمی‌شود
+  • معیار چهار: تطبیق باید در جست‌وجوی معکوس نیز بازیابی شود
+  • معیار پنج: الگوی تکرارشونده باید حداقل در سه روایت مستقل دیده شود تا به کانون مصوب نزدیک شود
+  • Criterion one: the verse must relate directly to the narrative’s turning point, not merely to the general theme
+  • Criterion two: the station must explain the dominant function of the verse, not a minor element
+  • Criterion three: the lesson must be a practical instruction derivable from the verse without excessive interpretation
+  • Criterion four: the correspondence must be retrievable in the reverse search
+  • Criterion five: a recurring pattern must be observed in at least three independent narratives to approach an established center
+
+۴.۲ مبنای انتخاب روایت‌ها
+4.2 Basis for Selecting the Narratives
+
+فهرست‌های معتبر داستان‌های قرآن، بیست‌وپنج پیامبر را برمی‌شمارند؛ از آدم، ادریس و نوح تا عیسی. افزون بر آن‌ها داستان‌های دیگری نیز آمده است، از جمله اصحاب کهف، اصحاب رس، قارون، ذوالقرنین، هابیل و قابیل. این کتاب برای نمونه‌ی آزمایشی سیزده روایت از این مجموعه را برگزیده است؛ همان سیزده مدخلی که در جدول تطبیق نمونه آمده‌اند. این انتخاب نماینده‌ی کل قرآن نیست و محدودیت آن در بخش نقد بررسی شده است.
+Standard reference works list twenty-five prophets whose stories are narrated in the Quran, from Adam, Idris, and Noah to Jesus, together with other narratives such as the People of the Cave, the People of al-Rass, Qarun, Dhu al-Qarnayn, and Habil and Qabil. As a pilot sample, this book selects thirteen narratives from this corpus, namely the thirteen entries of the master’s sample table. The selection does not represent the whole Quran, and this limitation is discussed in the critique.
+
+۴.۳ رمزگذاری و قواعد کدنویسی
+4.3 Coding Scheme and Rules
+
+  • فیلد اول: نام شخص یا قوم؛ فیلد دوم: نقطه‌ی چرخش به‌صورت عبارت قرآنی؛ فیلد سوم: شماره‌ی آیه؛ فیلد چهارم: شماره‌ی ایستگاه؛ فیلد پنجم: درس به زبان عملیاتی
+  • قاعده‌ی یک: هر ایستگاه یک کارکرد غالب دارد، اما گاهی دو ایستگاه همزمان فعال‌اند و در این صورت هر دو ثبت می‌شوند
+  • قاعده‌ی دو: آیه‌هایی که بازگشت به گذشته را بیان می‌کنند (مانند توبه) به ایستگاه نخست بازگردانده می‌شوند
+  • قاعده‌ی سه: درس نباید پیش از استقرار شواهد متنی استنتاج شود
+  • Field one: name of the person or people; field two: the turning point as a Quranic phrase; field three: verse number; field four: station number; field five: the lesson in operational language
+  • Rule one: each station has one dominant function, but sometimes two stations are active together, and then both are recorded
+  • Rule two: verses that express a return to the past, such as repentance, are assigned to station one
+  • Rule three: a lesson must not be inferred before textual evidence is established
+
+۴.۴ روایی، پایایی و سوگیری
+4.4 Validity, Reliability, and Bias
+
+مهم‌ترین تهدید این روش سوگیری تأییدی است؛ یعنی خوانش آیات بر اساس چارچوبی که از پیش پذیرفته شده است. برای کاهش آن سه تدبیر پیشنهاد می‌شود: کدگذاری کور توسط پژوهشگری که از پیش‌فرض‌های مدل آگاه نیست؛ سنجش توافق میان کدگذاران با ضریب کاپا (Cohen, 1960)؛ و ثبت موارد ناهم‌خوانی که مدل توضیح نمی‌دهد. در نسخه‌ی کنونی، کدگذاری را نویسنده انجام داده و توافق میان کدگذاران هنوز سنجیده نشده است. این یکی از محدودیت‌های صریح کار است.
+The principal threat to this method is confirmation bias, namely reading verses through a framework that has already been accepted. Three safeguards are proposed: blind coding by an investigator unaware of the model’s assumptions; measurement of inter-coder agreement with Cohen’s kappa (Cohen, 1960); and recording of discordant cases that the model does not explain. In the present edition, the coding was performed by the author, and inter-coder agreement has not yet been measured. This is an explicit limitation of the work.
+
+از نظر حجم نمونه، برای آزمون تفاوت میانگین دو گروه با اندازه‌ی اثر متوسط (d = ۰٫۵)، توان ۰٫۸ و سطح معناداری ۰٫۰۵، حدود شصت‌وچهار نفر در هر گروه لازم است. این برآورد برای طراحی پژوهش‌های آینده پیشنهاد می‌شود.
+For sample size, detecting a mean difference between two groups with a medium effect (d = 0.5), power of 0.80, and alpha of 0.05 requires about sixty-four participants per group. This estimate is proposed for future studies.
+
+================================================================
+بخش سوم: تحلیل روایت‌ها و بخش مقایسه‌ای
+Part III: Narrative Analysis and the Comparison Section
+================================================================
+
+================================================================
+فصل پنجم: تحلیل موردی یکم (شش روایت)
+Chapter 5: Case Analyses I (Six Narratives)
+================================================================
+
+هر روایت در این فصل و فصل بعد یک خوانش درون‌چارچوبی است و با پروتکل فصل چهارم سنجیده می‌شود. ترتیب موارد از ورودی‌های نخست به ایستگاه‌های میانی است. آیه‌ی نقطه‌ی چرخش، ترجمه‌ی فارسی و انگلیسی، ایستگاه و درس مطابق جدول تطبیق نمونه آمده است.
+Each narrative in this chapter and the next is an in-framework reading, assessed against the protocol of Chapter 4. The order of cases follows the progression from the earliest stations to the middle ones. For every case, the turning-point verse, the Persian and English glosses, the station, and the lesson are reported as in the sample table.
+
+۵.۱ موسی: پذیرش نیاز و گشایش درها
+5.1 Moses: Acceptance of Need and the Opening of Doors
+
+  رب إني لما أنزلت إلي من خير فقير
+  [القصص ۲۴ (Qasas 28:24)]
+  پروردگارا، من به هر خیری که بر من فرو فرستی نیازمندم.
+  My Lord, I am in need of whatever good You send down to me.
+
+موسی پس از فرار از مصر و رسیدن به مدین در سایه‌ای نشست و با پروردگار گفت‌وگو کرد. نقطه‌ی چرخش در این لحظه، پذیرش صریح نیاز است. او نه شکایت می‌کند و نه خود را مقصر می‌داند؛ وضعیت خود را همان‌طور که هست می‌بیند و مسئولیت دریافت گشایش را می‌پذیرد. ایستگاه این نقطه، مرحله‌ی یکم، مسئولیت فردی است. درس جدول، «پذیرش نیاز، گشایش درها»، از همین توالی برمی‌آید: تا نیاز پذیرفته نشود، دری گشوده نمی‌شود. پس از این لحظه روایت به ازدواج با یکی از دختران شعیب و سپس بازگشت به مسیر رسالت می‌رسد، یعنی حرکتی از ایستگاه نخست به ایستگاه‌های بعد.
+After fleeing Egypt and reaching Midian, Moses sat in the shade and spoke with his Lord. The turning point in this moment is the explicit acceptance of need. He neither complains nor blames himself; he sees his condition as it is and accepts responsibility for receiving the opening that follows. The station is Stage One, individual responsibility. The lesson of the table, “acceptance of need opens doors”, follows from this sequence: until need is acknowledged, no door opens. After this moment the narrative moves to his marriage to one of Shu’ayb’s daughters and his later return to the path of mission, a movement from the first station onward.
+
+۵.۲ آدم و ابلیس: جمله‌ی پس از خطا
+5.2 Adam and Iblis: The Sentence After Error
+
+  قالا ربنا ظلمنا أنفسنا وإن لم تغفر لنا وترحمنا لنكونن من الخاسرين
+  [الأعراف ۲۳ (A’raf 7:23)]
+  گفتند: پروردگارا، ما به خود ستم کردیم؛ اگر ما را نبخشی و رحمت نیاوری، از زیانکاران خواهیم بود.
+  They said: Our Lord, we have wronged ourselves; if You do not forgive us and have mercy on us, we will surely be among the losers.
+
+پس از خطای آدم، او و همسرش این جمله را گفتند. در برابر آن، ابلیس با «فَبِمَا أَغْوَيْتَنِي» (اعراف ۱۶) خطای خود را به بیرون از خویش نسبت داد. نقطه‌ی چرخش در این تقابل، شیوه‌ی سخن گفتن پس از خطا است. اعتراف «ظَلَمْنَا أَنفُسَنَا» همراه با امید به بخشش، مدار سرزنش را می‌شکند؛ در مقابل، حواله‌ی مسئولیت به بیرون همان مدار را تکرار می‌کند. هر دو روایت در ایستگاه یکم قرار می‌گیرند، زیرا موضوع اصلی مسئولیت است. درس «جمله‌ی پس از خطا، مدار را رها می‌سازد» ناظر بر تفاوت این دو زبان است.
+After the error of Adam, he and his spouse uttered this sentence. In contrast, Iblis, in the words “because You have led me astray” (A’raf 7:16), attributed his error to something outside himself. The turning point in this contrast is the manner of speech after error. The confession “we have wronged ourselves”, accompanied by hope for forgiveness, breaks the orbit of blame; by contrast, shifting responsibility outward repeats the same orbit. Both narratives are placed at station one because their central issue is responsibility. The lesson, “the sentence after error releases the orbit”, concerns the difference between these two forms of speech.
+
+۵.۳ یعقوب: زبان ترس و کاشتن سناریو
+5.3 Jacob: The Language of Fear and the Planting of Scenarios
+
+  قال إني ليحزنني أن تذهبوا به وأخاف أن يأكله الذئب وأنتم عنه غافلون
+  [یوسف ۱۳ (Yusuf 12:13)]
+  گفت: اندوهگین می‌شوم که او را با خود ببرید، و می‌ترسم گرگ او را بخورد در حالی که شما از او غافل باشید.
+  He said: It grieves me that you take him away, and I fear the wolf may devour him while you are heedless of him.
+
+یعقوب هنگامی که فرزندانش خواستند یوسف را همراه ببرند، گفت می‌ترسد گرگ او را بخورد. نقطه‌ی چرخش در واژه‌ی «أَخَافُ» است: ترس، سناریویی از آینده می‌سازد که ذهن به آن می‌چسبد. این سناریو در مرحله‌ی دوم، یعنی ورودی‌های ذهن، جای می‌گیرد و چون فرکانس ترس را منتقل می‌کند، در مرحله‌ی سوم نیز فعال است؛ از این رو ایستگاه‌های دو و سه ثبت شده‌اند. درس «زبان ترس، سناریو می‌کارد» اصل صلات را بازمی‌تاباند: توجه از هدف به تهدید منحرف شده است.
+When his sons asked to take Joseph along, Jacob said he feared a wolf would devour him. The turning point lies in the word “I fear” (akhaf): fear constructs a scenario of the future to which the mind clings. The scenario belongs to Stage Two, the inputs of the mind, and because it transmits the frequency of fear, it is also active in Stage Three; hence stations two and three are recorded. The lesson, “the language of fear plants scenarios”, reflects the principle of salat: attention has been diverted from the goal to the threat.
+
+۵.۴ زکریا: دعا با یاد اجابت‌های پیشین
+5.4 Zechariah: Prayer with the Remembrance of Past Answers
+
+  ولم أكن بدعائك رب شقيا
+  [مریم ۴ (Maryam 19:4)]
+  و هرگز در دعا به درگاه تو، ای پروردگارم، نومید و بی‌بهره نبوده‌ام.
+  And I have never been unblessed in calling upon You, my Lord.
+
+زکریا در خلوت، پروردگار را با نجوایی پنهان و امیدوار خواند. جمله‌ی «لَمْ أَكُن بِدُعَائِكَ رَبِّ شَقِيًّا» یادآوری تجربه‌ی اجابت‌های گذشته است؛ او دعا را از حافظه‌ی نعمت آغاز می‌کند. ایستگاه این روایت مرحله‌ی سوم، یعنی ارسال فرکانس، است، زیرا دعای صادقانه و توجه‌آگاه نوعی ارسال به سوی منبع است. درس «دعا با یاد اجابت‌های پیشین» پیوند میان حافظه‌ی مثبت و کیفیت فرکانس ارسالی را نشان می‌دهد و در گزاره‌ی P4 آزمون می‌شود.
+Zechariah prayed to his Lord in secret, with hope. The phrase “I have never been unblessed in calling upon You” recalls past answers; he begins prayer from the memory of blessings. The station of this narrative is Stage Three, the sending of frequency, because a sincere and attentive prayer is a transmission directed toward the source. The lesson, “prayer with the remembrance of past answers”, shows the link between positive memory and the quality of the frequency sent, and it is tested under proposition P4.
+
+۵.۵ نوح: صبر جمیل و عمل در دره
+5.5 Noah: Patient Beauty and Action in the Valley
+
+  ويصنع الفلك وكلما مر عليه ملأ من قومه سخروا منه
+  [هود ۳۷ و ۳۸ (Hud 11:37–38)]
+  کشتی را می‌ساخت، و هر بار که گروهی از بزرگان قومش بر او می‌گذشتند، او را مسخره می‌کردند.
+  He was building the ark, and whenever chiefs of his people passed by, they mocked him.
+
+نوح به فرمان الهی کشتی می‌ساخت و هر بار که بزرگان قومش از کنارش می‌گذشتند، او را مسخره می‌کردند. نقطه‌ی چرخش ادامه‌ی عمل زیر نظر خداوند با وجود بی‌اعتنایی جامعه است. متن جدول آیه‌ی ۳۷ را ذکر کرده است، اما عبارت «وَيَصْنَعُ الْفُلْكَ» در آیه‌ی ۳۸ آمده و آیه‌ی ۳۷ زمینه‌ی آن را فراهم می‌کند؛ این کتاب هر دو آیه را ثبت می‌کند. این روایت در مرحله‌ی چهارم قرار می‌گیرد، زیرا عمل در بستری از نظم الهی و در میان ناباوری جمعی ادامه می‌یابد. درس «صبر جمیل و عمل در دره» بیان می‌کند که صبر، که در قرآن «صبر جمیل» خوانده می‌شود، با عمل همزمان است و انتظار و کار از هم جدا نمی‌شوند.
+Noah built the ark at God’s command, and whenever the chiefs of his people passed by him they mocked him. The turning point is the continuation of action under divine observation despite the indifference of society. The sample table cites verse 37, but the phrase “he was building the ark” appears in verse 38, and verse 37 provides its context; this book records both verses. The narrative is assigned to Stage Four, because action proceeds within a divine order and amid collective disbelief. The lesson, “patient beauty and action in the valley”, states that patience, described in the Quran as “beautiful patience” (Yusuf 12:18), proceeds together with action, so that waiting and working are not separated.
+
+۵.۶ ابراهیم: ایمان به غیب پیش از دیدن
+5.6 Abraham: Faith in the Unseen Before Seeing
+
+  يا نار كوني بردا وسلاما على إبراهيم
+  [الأنبیاء ۶۹ (Anbiya 21:69)]
+  ای آتش، برای ابراهیم سرد و سلامت باش.
+  O fire, be cool and safe for Abraham.
+
+ابراهیم در آتشی افکنده شد که برایش آماده کرده بودند. فرمان «يَا نَارُ كُونِي بَرْدًا وَسَلَامًا» پیش از آن صادر شد که نتیجه دیده شود. نقطه‌ی چرخش باور به نتیجه‌ی نادیده است. این روایت در ایستگاه‌های چهارم و پنجم جای می‌گیرد: چهارم، زیرا در خوانش مدل، نظام جهان به فرمانی پاسخ می‌دهد؛ و پنجم، زیرا هدایت در لحظه‌ی بحران به شکلی غیرمنتظره ظاهر می‌شود. این خوانش یک تفسیر درون‌چارچوبی است و جای تفسیر معجزه‌شناختی را نمی‌گیرد. درس «ایمان به غیب پیش از دیدن» قاعده‌ای است که در گزاره‌ی P5 بررسی می‌شود.
+Abraham was thrown into a fire that had been prepared for him. The command “O fire, be cool and safe” was issued before the outcome could be seen. The turning point is belief in an outcome that is not yet visible. The narrative is placed at stations four and five: four, because in the model’s reading the order of the world responds to a command; and five, because guidance appears in the moment of crisis in an unexpected form. This is an in-framework reading and does not replace a miracle-theological interpretation. The lesson, “faith in the unseen before seeing”, is the rule examined in proposition P5.
+
+================================================================
+فصل ششم: تحلیل موردی دوم (هفت روایت)
+Chapter 6: Case Analyses II (Seven Narratives)
+================================================================
+
+این فصل هفت روایت باقی‌مانده‌ی جدول تطبیق را بررسی می‌کند. در این موارد نیز ملاک، آیه‌ی نقطه‌ی چرخش، ایستگاه و درس است. تحلیل‌ها از همان پروتکل پیروی می‌کنند و هر جا تفاوتی با موارد فصل پیشین وجود داشته باشد، در متن بیان شده است.
+This chapter examines the seven remaining narratives of the sample table. The criteria remain the turning-point verse, the station, and the lesson. The analyses follow the same protocol, and wherever a case differs from those of the previous chapter, the difference is stated in the text.
+
+۶.۱ مادر موسی: رها کردن و اعتماد
+6.1 Moses’ Mother: Release and Trust
+
+  فألقيه في اليم ولا تخافي ولا تحزني
+  [القصص ۷ (Qasas 28:7)]
+  او را در رود بیفکن و نه بترس و نه غمگین باش.
+  Cast him into the river, and do not fear or grieve.
+
+مادر موسی فرزند خود را به امواج نیل سپرد، در حالی که فرمان یافته بود نترسد و غمگین نشود. نقطه‌ی چرخش «رها کردن» است: در لحظه‌ای که بیشترین ترس وجود دارد، کنترل را به نظامی بزرگ‌تر واگذار می‌کند. این روایت در ایستگاه پنجم، یعنی هدایت، قرار دارد، زیرا پس از رها کردن، هدایت در قالب خواهر موسی که کودک را دنبال می‌کند و بازگشت او به آغوش مادر ظاهر می‌شود. درس «رها کردن و اعتماد» در تقابل با الگوی یعقوب قرار می‌گیرد: یکی از ترس به سناریو می‌رسد و دیگری از ترس به رها کردن.
+Moses’ mother placed her infant on the waters of the Nile, commanded not to fear or grieve. The turning point is release: at the moment of greatest fear she surrenders control to a larger order. The station is five, guidance, because after the release, guidance appears in the form of Moses’ sister tracing him and the child’s return to his mother’s arms. The lesson, “release and trust”, stands in direct contrast with Jacob’s pattern: one moves from fear to scenario, the other from fear to release.
+
+۶.۲ مریم: هدایت با عمل کوچک
+6.2 Mary: Guidance Through a Small Action
+
+  وهزي إليك بجذع النخلة تساقط عليك رطبا جنيا
+  [مریم ۲۵ (Maryam 19:25)]
+  تنه‌ی درخت خرما را به سوی خود تکان ده تا خرمای تازه بر تو فرو ریزد.
+  Shake the trunk of the palm tree toward you; fresh ripe dates will fall upon you.
+
+مریم در زمان زایمان زیر درخت خرما تنها بود و به او دستور داده شد که تنه‌ی درخت را تکان دهد. نقطه‌ی چرخش یک عمل کوچک و مشخص است؛ هدایت از راه اقدامی کم‌حجم و هدفمند می‌رسد، نه از راه انتظار بی‌عمل. این روایت میان ایستگاه‌های پنجم و ششم قرار می‌گیرد، زیرا هدایت (پنجم) به عمل مشخص (ششم) تبدیل می‌شود و تأیید از طریق نتیجه‌ی عملی به دست می‌آید. درس «هدایت با عمل کوچک» از همین توالی برمی‌آید.
+Mary, alone under a palm tree at the time of childbirth, was instructed to shake the trunk of the tree. The turning point is a small and specific action: guidance comes through a modest, targeted act rather than through passive waiting. The narrative spans stations five and six, because guidance (five) becomes a concrete action, and affirmation arrives through a practical outcome (six). The lesson, “guidance through small action”, derives from this sequence.
+
+۶.۳ یوسف: بن‌بست‌ها در مسیر هدایت‌اند
+6.3 Joseph: Dead Ends Lie on the Path of Guidance
+
+  ألقوه في غيابت الجب يلتقطه بعض السيارة
+  [یوسف ۱۰ تا ۱۹ (Yusuf 12:10–19)]
+  او را در ته چاه بیفکنید تا برخی از کاروانیان او را برگیرند.
+  Throw him into the depths of the well; some passing caravan will pick him up.
+
+یوسف از سوی برادران در چاه افکنده شد، سپس به بردگی فروخته شد و پس از آن به زندان افتاد. هر بار که بن‌بستی پدید آمد، مسیری تازه گشوده شد: کاروانی که او را از چاه برگرفت، خریداری که او را در خانه‌ی عزیز مصر جای داد و سرانجام آزادی. نقطه‌ی چرخش آرامش در بن‌بست است. ایستگاه‌های چهارم و پنجم ثبت شده‌اند، زیرا بن‌بست‌ها بخشی از نظام دریافت مسیرند و هدایت در ادامه‌ی آن‌ها ظاهر می‌شود. درس «بن‌بست‌ها در مسیر هدایت‌اند» بازیابی‌پذیر است و معیار چهار را برآورده می‌کند.
+Joseph was thrown into a well by his brothers, then sold into slavery and later imprisoned. Whenever a dead end appeared, a new path opened: the caravan that drew him from the well, the buyer who housed him in the Aziz’s household, and eventually his release. The turning point is calm within the dead end. Stations four and five are recorded because dead ends belong to the system that receives direction, and guidance appears in their continuation. The lesson, “dead ends lie on the path of guidance”, is retrievable in the reverse search and therefore satisfies Criterion Four.
+
+۶.۴ یونس: خشم ظلمت می‌آورد، توبه نور است
+6.4 Jonah: Anger Brings Darkness, Repentance Is Light
+
+  لا إله إلا أنت سبحانك إني كنت من الظالمين
+  [الأنبیاء ۸۷ (Anbiya 21:87)]
+  خدایی جز تو نیست؛ تو پاک و منزهی؛ بی‌گمان من از ستمکاران بودم.
+  There is no god but You; glory be to You; indeed I have been among the wrongdoers.
+
+یونس پیش از فرمان الهی قوم خود را ترک کرد و در تاریکی شکم ماهی و امواج دریا قرار گرفت. در آن ظلمت‌ها به توحید بازگشت و خطای خود را اعتراف کرد. نقطه‌ی چرخش «توبه» است و توبه بازگشت به ایستگاه نخست است. بر پایه‌ی قاعده‌ی دوم، این روایت به ایستگاه یک بازگردانده شده و در جدول با عنوان «بازگشت» ثبت شده است. درس «خشم، ظلمت می‌آورد؛ توبه نور است» خشم را به‌عنوان فرکانسی تاریک می‌خواند که با پذیرش مسئولیت و توبه، روشنایی بازمی‌گردد.
+Jonah left his people before receiving a divine command and found himself in the darkness of a whale’s belly and the depths of the sea. In those darknesses he returned to monotheism and confessed his wrongdoing. The turning point is repentance, and repentance is a return to the first station. By rule two, the narrative is assigned to station one, recorded in the table as “return”. The lesson, “anger brings darkness; repentance is light”, reads anger as a dark frequency whose counterpart, responsibility and repentance, restores the light.
+
+۶.۵ سلیمان: شکر در اوج نعمت
+6.5 Solomon: Gratitude at the Height of Blessing
+
+  هذا من فضل ربي ليبلوني أأشكر أم أكفر
+  [النمل ۴۰ (Naml 27:40)]
+  این از فضل پروردگار من است تا مرا بیازماید که آیا شکر می‌گزارم یا ناسپاسی می‌کنم.
+  This is from the favor of my Lord, to test me whether I will be grateful or ungrateful.
+
+سلیمان هنگامی که تختی را که در چشم‌بر‌هم‌زدنی نزد او آورده شده بود دید، گفت این از فضل پروردگار است تا او را بیازماید. نقطه‌ی چرخش در اوج نعمت، آگاهی از آزمون بودن آن است. این روایت در ایستگاه ششم، یعنی تأیید، قرار دارد، زیرا سلیمان نعمت را به منبعش نسبت می‌دهد و صدق بالحسنی را برقرار می‌کند. درس «شکر در اوج نعمت» در برابر درس قارون قرار می‌گیرد و نشان می‌دهد که تأیید درست، ریشه‌ی ناسپاسی را خشک می‌کند.
+When he saw a throne brought to him in the twinkling of an eye, Solomon declared that this was a favor of his Lord, to test him. The turning point at the height of blessing is awareness that it is a test. The narrative stands at station six, affirmation, because Solomon attributes the blessing to its source and realizes affirmation through the good. The lesson, “gratitude at the height of blessing”, stands in direct contrast to Qarun’s, and shows that correct affirmation dries up the root of ingratitude.
+
+۶.۶ قارون: نسبت دادن نعمت به خود
+6.6 Qarun: Attributing Blessing to Oneself
+
+  قال إنما أوتيته على علم عندي
+  [القصص ۷۸ (Qasas 28:78)]
+  گفت: این ثروت را تنها به دلیل دانشی که نزد من است به دست آورده‌ام.
+  He said: I was given this only because of knowledge in my possession.
+
+قارون هنگامی که به او توصیه شد با سپاس از نعمت‌ها فروتن و نیکوکار باشد، گفت این ثروت را به خاطر دانشی که نزد اوست به دست آورده است. نقطه‌ی چرخش نسبت دادن نعمت به خود است. این روایت در ایستگاه ششم، با عنوان «شکست تأیید»، جای می‌گیرد: تأیید به‌جای اتصال به منبع، به خود منتهی شده است. درس «نسبت دادن نعمت به خود» مرز میان مسئولیت و خودبزرگ‌بینی را نشان می‌دهد که در فصل نخست توضیح داده شد. مقایسه‌ی قارون و سلیمان روشن‌ترین نمونه‌ی دو مسیر متفاوت است.
+When advised to be humble and generous in gratitude for his blessings, Qarun replied that he had been given his wealth because of the knowledge he possesses. The turning point is the attribution of blessing to oneself. The narrative is recorded at station six as a “failure of affirmation”: instead of connecting to the source, affirmation terminates in the self. The lesson, “attributing blessing to oneself”, marks the boundary between responsibility and self-inflation explained in Chapter 1. The comparison of Qarun and Solomon is the sharpest example of the two divergent paths.
+
+۶.۷ ایوب: شکایت مؤدبانه به منبع
+6.7 Job: Polite Complaint to the Source
+
+  مسني الضر وأنت أرحم الراحمين
+  [الأنبیاء ۸۳ (Anbiya 21:83)]
+  آسیب به من رسیده است و تو مهربان‌ترین مهربانانی.
+  Harm has touched me, and You are the most merciful of the merciful.
+
+ایوب در بیماری سخت خود، با ادبی ژرف شکایت را به پروردگار برد نه به مردم. عبارت «مَسَّنِيَ الضُّرُّ» بیان رنج است، اما با «وَأَنتَ أَرْحَمُ الرَّاحِمِينَ» به منبع رحمت پیوند می‌خورد. نقطه‌ی چرخش در شیوه‌ی بیان است: شکایت به شکل دعا درآمده است. ایستگاه این روایت سوم، یعنی ارسال فرکانس، است، زیرا گفتار او نشانه‌ی درد را به سوی منبع می‌فرستد. درس «شکایت مؤدبانه به منبع» با درس یعقوب تفاوت دارد: یعقوب ترس را به سناریو تبدیل کرد و ایوب درد را به دعا.
+In his severe illness, Job brought his complaint to his Lord rather than to people, with remarkable courtesy. The phrase “harm has touched me” expresses suffering, yet it is joined to “You are the most merciful of the merciful”, linking the complaint to the source of mercy. The turning point lies in the manner of speech: the complaint takes the form of prayer. The station is three, the sending of frequency, because his speech transmits a signal of pain toward the source. The lesson, “polite complaint to the source”, differs from Jacob’s: Jacob converted fear into a scenario, while Job converted pain into prayer.
+
+================================================================
+فصل هفتم: بخش مقایسه‌ای
+Chapter 7: The Comparison Section
+================================================================
+
+بخش مقایسه‌ای همان قسمتی است که استاد در درخواست‌ها بر آن تأکید کرده‌اند. مقایسه در این کتاب سه سطح دارد: مقایسه‌ی ستونی در جدول کامل، مقایسه‌ی توزیعی میان ایستگاه‌ها و گونه‌های نقطه‌ی چرخش، و مقایسه‌ی زوج‌های متقابل که نقطه‌ی مشترک و تفاوت کلیدی آن‌ها سنجیده می‌شود.
+The comparison section is the part the master emphasized in his requests. Comparison operates at three levels in this book: column-wise comparison in the full table, distributional comparison across stations and types of turning point, and the comparison of contrasting pairs that share a station but differ in a key feature.
+
+۷.۱ جدول تطبیق کامل
+7.1 The Full Correspondence Table
+
+پیامبر یا شخص | نقطه‌ی چرخش | آیه | ایستگاه | درس
+----------------------------------------
+موسی | پذیرش نیاز: «رب إني لما أنزلت إلي من خير فقير» | القصص ۲۴ | ۱ مسئولیت | پذیرش نیاز، گشایش درها
+آدم و ابلیس | «ظلمنا أنفسنا» در برابر «فبما أغويتني» | الأعراف ۲۳ و ۱۶ | ۱ مسئولیت | جمله‌ی پس از خطا، مدار را رها می‌سازد
+یعقوب | «أخاف أن يأكله الذئب» | یوسف ۱۳ | ۲ و ۳ ورودی و ارسال | زبان ترس، سناریو می‌کارد
+زکریا | «لم أكن بدعائك رب شقيا» | مریم ۴ | ۳ ارسال | دعا با یاد اجابت‌های پیشین
+نوح | «ويصنع الفلك» | هود ۳۷ و ۳۸ | ۴ سیستم | صبر جمیل و عمل در دره
+ابراهیم | «يا نار كوني بردا وسلاما» | الأنبیاء ۶۹ | ۴ و ۵ | ایمان به غیب پیش از دیدن
+مادر موسی | «فألقيه في اليم ولا تخافي» | القصص ۷ | ۵ هدایت و اعطا | رها کردن و اعتماد
+مریم | «وهزي إليك بجذع النخلة» | مریم ۲۵ | ۵ و ۶ عمل | هدایت با عمل کوچک
+یوسف | «ألقوه في غيابت الجب» | یوسف ۱۰ تا ۱۹ | ۴ و ۵ | بن‌بست‌ها در مسیر هدایت‌اند
+یونس | «لا إله إلا أنت سبحانك» | الأنبیاء ۸۷ | ۱ بازگشت | خشم، ظلمت می‌آورد؛ توبه نور است
+سلیمان | «هذا من فضل ربي» | النمل ۴۰ | ۶ تأیید | شکر در اوج نعمت
+قارون | «إنما أوتيته على علم عندي» | القصص ۷۸ | ۶ شکست تأیید | نسبت دادن نعمت به خود
+ایوب | «مسني الضر وأنت أرحم الراحمين» | الأنبیاء ۸۳ | ۳ ارسال | شکایت مؤدبانه به منبع
+
+Person or figure | Turning point | Verse | Station | Lesson
+----------------------------------------
+Moses | Acceptance of need: “My Lord, I am in need of whatever good You send me” | Qasas 28:24 | 1 Responsibility | Acceptance of need opens doors
+Adam and Iblis | “We have wronged ourselves” versus “Because You led me astray” | A’raf 7:23 and 7:16 | 1 Responsibility | The sentence after error releases the orbit
+Jacob | “I fear the wolf may devour him” | Yusuf 12:13 | 2 and 3 Inputs and sending | The language of fear plants scenarios
+Zechariah | “I have never been unblessed in calling upon You” | Maryam 19:4 | 3 Sending | Prayer with the remembrance of past answers
+Noah | “He was building the ark” | Hud 11:37 and 38 | 4 System | Patient beauty and action in the valley
+Abraham | “O fire, be cool and safe for Abraham” | Anbiya 21:69 | 4 and 5 | Faith in the unseen before seeing
+Moses’ mother | “Cast him into the river, and do not fear or grieve” | Qasas 28:7 | 5 Guidance | Release and trust
+Mary | “Shake the trunk of the palm tree toward you” | Maryam 19:25 | 5 and 6 Action | Guidance through small action
+Joseph | “Throw him into the depths of the well” | Yusuf 12:10 to 19 | 4 and 5 | Dead ends lie on the path of guidance
+Jonah | “There is no god but You; glory be to You” | Anbiya 21:87 | 1 Return | Anger brings darkness; repentance is light
+Solomon | “This is from the favor of my Lord” | Naml 27:40 | 6 Affirmation | Gratitude at the height of blessing
+Qarun | “I was given it because of knowledge in my possession” | Qasas 28:78 | 6 Failure of affirmation | Attributing blessing to oneself
+Job | “Harm has touched me, and You are the most merciful” | Anbiya 21:83 | 3 Sending | Polite complaint to the source
+
+NOTE: یادداشت: آیه‌ها بر پایه‌ی جدول نمونه ثبت شده‌اند؛ نسخه‌ی هود در جدول نمونه ۳۷ ذکر شده است و این کتاب هر دو آیه‌ی ۳۷ و ۳۸ را برای عبارت «ویصنع الفلک» ثبت می‌کند. ترجمه‌های انگلیسی نقل‌قول‌ها برگردان نویسنده است و برای سنجش دقیق باید با ترجمه‌های رسمی تطبیق داده شود.
+NOTE: Note: Verses are recorded as in the sample table; for Hud the table cites 37, while this book records verses 37 and 38 for the phrase “he was building the ark”. The English renderings of the quotations are the author’s translations and should be checked against established translations for precision.
+
+۷.۲ توزیع ایستگاه‌ها در جدول
+7.2 Distribution of Stations in the Table
+
+ایستگاه | شمار تطبیق‌ها | روایت‌ها | ملاحظه
+----------------------------------------
+۱ مسئولیت فردی | ۳ | موسی؛ آدم و ابلیس؛ یونس (بازگشت) | نقطه‌ی آغاز و بازگشت پس از خطا
+۲ ورودی‌های ذهن | ۱ | یعقوب | کاشتن سناریوی ترس در ذهن
+۳ ارسال فرکانس | ۳ | یعقوب؛ زکریا؛ ایوب | دعا و شکایت به‌عنوان فرستادن فرکانس
+۴ سیستم رادیویی | ۳ | نوح؛ ابراهیم؛ یوسف | عمل و پذیرش در بستر نظم الهی
+۵ هدایت | ۴ | مادر موسی؛ ابراهیم؛ مریم؛ یوسف | شکل‌گیری راهنمایی در رویداد و انسان
+۶ تأیید | ۳ | مریم؛ سلیمان؛ قارون | نسبت‌دهی نعمت، درست یا نادرست
+۷ تحقق خواسته | ۰ | — | خلأ آشکار: هیچ روایتی مستقیماً در ایستگاه هفتم ثبت نشده است
+
+Station | Number of mappings | Narratives | Remark
+----------------------------------------
+1 Individual responsibility | 3 | Moses; Adam and Iblis; Jonah (return) | Point of origin and return after error
+2 Mental inputs | 1 | Jacob | Planting a scenario of fear in the mind
+3 Sending frequency | 3 | Jacob; Zechariah; Job | Prayer and complaint as sending a frequency
+4 Radio system | 3 | Noah; Abraham; Joseph | Action and acceptance within divine order
+5 Guidance | 4 | Moses’ mother; Abraham; Mary; Joseph | Guidance taking shape in events and people
+6 Affirmation | 3 | Mary; Solomon; Qarun | Attribution of blessing, correct or mistaken
+7 Realization | 0 | None | An evident gap: no narrative is recorded directly at station seven
+
+۷.۳ گونه‌شناسی نقاط چرخش
+7.3 Typology of Turning Points
+
+گونه‌ی نقطه‌ی چرخش | روایت‌ها | شمار | الگوی مشترک
+----------------------------------------
+اعتراف و بازگشت | موسی؛ آدم؛ یونس | ۳ | پذیرش مسئولیت پیش از گشایش
+ترس و سناریو | یعقوب | ۱ | توجه به تهدید و کاشتن آینده‌ی منفی
+دعا و شکایت | زکریا؛ ایوب | ۲ | تبدیل احساس به گفتار خطاب به منبع
+صبر و عمل در شرایط سخت | نوح؛ یوسف | ۲ | ادامه‌ی عمل در بستر بی‌اعتنایی یا بن‌بست
+رها کردن و باور | مادر موسی؛ ابراهیم | ۲ | واگذاری کنترل به نظامی بزرگ‌تر
+عمل کوچک و مشخص | مریم | ۱ | هدایت از راه کنش عملی
+شکر یا نسبت دادن | سلیمان؛ قارون | ۲ | جهت انتساب نعمت، به منبع یا به خود
+
+Type of turning point | Narratives | Count | Shared pattern
+----------------------------------------
+Acknowledgment and return | Moses; Adam; Jonah | 3 | Acceptance of responsibility before the opening
+Fear and scenario | Jacob | 1 | Attention to threat and planting a negative future
+Prayer and complaint | Zechariah; Job | 2 | Converting feeling into speech addressed to the source
+Patience and action under hardship | Noah; Joseph | 2 | Continuing action amid indifference or dead ends
+Release and belief | Moses’ mother; Abraham | 2 | Surrendering control to a larger order
+Small concrete action | Mary | 1 | Guidance through practical action
+Gratitude or attribution | Solomon; Qarun | 2 | The direction of attribution, to the source or to oneself
+
+۷.۴ زوج‌های متقابل
+7.4 Contrasting Pairs
+
+تقابل | ایستگاه مشترک | تفاوت کلیدی | آزمون مرتبط
+----------------------------------------
+آدم در برابر ابلیس | ۱ | اعتراف به خطا در برابر حواله‌ی آن به بیرون | گزاره‌ی P8 (زبان مسئولانه)
+یعقوب در برابر مادر موسی | ۲، ۳ و ۵ | ترس به سناریو در برابر ترس به رها کردن | گزاره‌های P2 و P3
+زکریا در برابر ایوب | ۳ | دعای برآمده از یاد اجابت‌ها در برابر شکایت مؤدبانه از رنج | گزاره‌های P4 و P9
+نوح در برابر یوسف | ۴ | صبر در ساختن کشتی در برابر صبر در بن‌بست چاه و زندان | پایداری صبر در شرایط متفاوت (P3)
+سلیمان در برابر قارون | ۶ | شکر و انتساب نعمت به منبع در برابر انتساب به خود | گزاره‌های P1 و P6
+
+Pair | Shared station | Key difference | Related test
+----------------------------------------
+Adam versus Iblis | 1 | Confession of error versus shifting it outward | Proposition P8 (responsible language)
+Jacob versus Moses’ mother | 2, 3, and 5 | Fear turned into scenario versus fear turned into release | Propositions P2 and P3
+Zechariah versus Job | 3 | Prayer born of remembering answers versus courteous complaint about suffering | Propositions P4 and P9
+Noah versus Joseph | 4 | Patience in building the ark versus patience in the well and the prison | Stability of patience across contexts (P3)
+Solomon versus Qarun | 6 | Gratitude and attribution to the source versus attribution to oneself | Propositions P1 and P6
+
+۷.۵ مشاهدات مقایسه‌ای
+7.5 Comparative Observations
+
+  • مشاهده‌ی یک: ایستگاه‌های همزمان معمولاً مجاورند (۲ و ۳، ۴ و ۵، ۵ و ۶)، که با توالی دایره‌ی چرخه سازگار است
+  • مشاهده‌ی دو: هیچ روایتی مستقیماً در ایستگاه هفتم ثبت نشده است؛ تحقق خواسته در روایت‌ها به شکل پیامد دیده می‌شود، نه به‌عنوان یک نشانه‌ی متنی جدا
+  • مشاهده‌ی سه: متغیر تعیین‌کننده در بیشتر زوج‌ها «جهت انتساب» است؛ یعنی نعمت، رنج یا خطا به منبع نسبت داده می‌شود یا به خود یا به عامل بیرونی
+  • مشاهده‌ی چهار: در هشت مورد از سیزده روایت، نقطه‌ی چرخش یک کنش گفتاری است (اعتراف، پرسش، دعا، شکایت یا انتساب)، که با نظریه‌ی کنش گفتاری (Austin, 1962) هم‌خوان است
+  • مشاهده‌ی پنج: نمونه‌ی سیزده‌تایی کوچک است و کدگذاری از سوی نویسنده انجام شده است، پس نتایج را نمی‌توان تعمیم داد
+  • Observation one: concurrent stations are usually adjacent (2 and 3, 4 and 5, 5 and 6), which is consistent with the sequence of the cycle’s circle
+  • Observation two: no narrative is recorded directly at station seven; realization appears in the narratives as an outcome, not as a separate textual marker
+  • Observation three: in most contrasting pairs the decisive variable is the direction of attribution, that is, whether blessing, suffering, or error is attributed to the source, to oneself, or to an external agent
+  • Observation four: in eight of the thirteen narratives the turning point is a speech act (confession, request, prayer, complaint, or attribution), which is consistent with speech-act theory (Austin, 1962)
+  • Observation five: the sample of thirteen is small and was coded by the author, so the results cannot be generalized
+
+================================================================
+بخش چهارم: تلفیق، کانون مصوب و نقد علمی
+Part IV: Integration, the Established Center, and Scientific Critique
+================================================================
+
+================================================================
+فصل هشتم: جست‌وجوی معکوس و تلفیق دو مسیر
+Chapter 8: Reverse Search and the Integration of Two Directions
+================================================================
+
+درخواست دوم استاد این بود که از هر ایستگاه آغاز کنیم و آیاتی را بیابیم که با آن ایستگاه تطبیق دارند. نتیجه‌ی این جست‌وجو در جدول زیر آمده است. یک نکته‌ی روشی باید صریح گفته شود: در این نسخه، جست‌وجوی معکوس مستقل از جدول نمونه انجام نشده، زیرا فهرست آیات هر ایستگاه از همان جدول گرفته شده است. بنابراین توافق دو مسیر یک بررسی سازگاری درونی است و جای تأیید مستقل را نمی‌گیرد.
+The second request asked us to begin at each station and find verses that correspond to it. The outcome of that search appears in the table below. One methodological point must be stated plainly: in this edition the reverse search was not independent of the sample table, because the list of verses for each station was drawn from that same table. The agreement between the two directions is therefore an internal consistency check and does not replace independent confirmation.
+
+ایستگاه | آیات بازیابی‌شده در جست‌وجوی معکوس | روایت‌های تطبیق‌یافته در مسیر رمزگذاری | وضعیت
+----------------------------------------
+۱ مسئولیت فردی | الأعراف ۱۶ و ۲۳؛ القصص ۲۴؛ الأنبیاء ۸۷ | موسی؛ آدم و ابلیس؛ یونس | سازگار (سه روایت)، نه مستقل
+۲ ورودی‌های ذهن | یوسف ۱۳ | یعقوب | سازگار (یک روایت)؛ نیازمند داده‌ی بیشتر
+۳ ارسال فرکانس | مریم ۴؛ الأنبیاء ۸۳؛ یوسف ۱۳ | زکریا؛ ایوب؛ یعقوب | سازگار (سه روایت)
+۴ سیستم رادیویی | هود ۳۷ و ۳۸؛ الأنبیاء ۶۹؛ یوسف ۱۰ تا ۱۹ | نوح؛ ابراهیم؛ یوسف | سازگار (سه روایت)
+۵ هدایت | القصص ۷؛ مریم ۲۵؛ الأنبیاء ۶۹؛ یوسف ۱۰ تا ۱۹ | مادر موسی؛ مریم؛ ابراهیم؛ یوسف | سازگار (چهار روایت)
+۶ تأیید | مریم ۲۵؛ النمل ۴۰؛ القصص ۷۸ | مریم؛ سلیمان؛ قارون | سازگار (سه روایت)
+۷ تحقق خواسته | — | — | شکاف: هیچ آیه‌ی تطبیق‌یافته‌ای ثبت نشده است
+
+Station | Verses retrieved in reverse search | Narratives mapped in the coding direction | Status
+----------------------------------------
+1 Individual responsibility | A’raf 7:16 and 7:23; Qasas 28:24; Anbiya 21:87 | Moses; Adam and Iblis; Jonah | Consistent (three narratives), not independent
+2 Mental inputs | Yusuf 12:13 | Jacob | Consistent (one narrative); needs more data
+3 Sending frequency | Maryam 19:4; Anbiya 21:83; Yusuf 12:13 | Zechariah; Job; Jacob | Consistent (three narratives)
+4 Radio system | Hud 11:37 and 11:38; Anbiya 21:69; Yusuf 12:10 to 19 | Noah; Abraham; Joseph | Consistent (three narratives)
+5 Guidance | Qasas 28:7; Maryam 19:25; Anbiya 21:69; Yusuf 12:10 to 19 | Moses’ mother; Mary; Abraham; Joseph | Consistent (four narratives)
+6 Affirmation | Maryam 19:25; Naml 27:40; Qasas 28:78 | Mary; Solomon; Qarun | Consistent (three narratives)
+7 Realization | none | none | Gap: no verse has been mapped to this station
+
+مرحله‌ی تلفیق نشان می‌دهد که ۱۷ تطبیق ایستگاهی در جدول وجود دارد که ۱۶ مورد آن در هر دو جهت سازگار است. تنها شکاف، ایستگاه هفتم است. چند آیه به دو ایستگاه نسبت داده شده‌اند، مانند آیات ۱۰ تا ۱۹ سوره‌ی یوسف و آیه‌ی ۶۹ سوره‌ی انبیاء که هم در ایستگاه چهارم و هم در پنجم ثبت شده‌اند. این هم‌پوشانی با قاعده‌ی یک فصل چهارم سازگار است و نشان می‌دهد که مراحل در عمل مرزهای نرم دارند.
+The integration stage shows seventeen station-level mappings in the table, of which sixteen are consistent in both directions. The only gap is station seven. Several verses are assigned to two stations, for example Yusuf 12:10 to 19 and Anbiya 21:69, which are recorded both at station four and at station five. This overlap is consistent with rule one of Chapter 4 and indicates that the stages have soft boundaries in practice.
+
+۸.۱ اصل تکرار و خوانش آن
+8.1 The Principle of Repetition and Its Reading
+
+قصه‌های قرآن بارها تکرار شده‌اند و هر بار با تفاوتی در تعبیر و جزئیات آمده‌اند. امام خمینی، به‌نقل از منابع دانشنامه‌ای، گفته‌اند که در هر تکرار، نکته‌ای تازه‌ی اخلاقی یا عرفانی برجسته می‌شود. در چارچوب این کتاب، هر روایت تکراری مانند یک مشاهده‌ی تازه از همان چرخه تلقی می‌شود. اگر یک چرخه با روایت‌های متفاوت بازتولید شود، پشتوانه‌ی تلفیق بیشتر است؛ اما باید توجه داشت که تکرار روایت به‌خودی‌خود دلیل صدق مدل نیست.
+The stories of the Quran are repeated many times, each time with a difference in phrasing and detail. Imam Khomeini, as cited in an encyclopedia entry, observed that each repetition highlights a new moral or spiritual point. Within this book’s framework, each repeated narrative is treated as a fresh observation of the same cycle. If a cycle is reproduced across different narratives, the support for integration increases. Yet repetition in the text is not by itself evidence that the model is true.
+
+================================================================
+فصل نهم: کانون مصوب، معیارها و نامزدها
+Chapter 9: The Established Center, Its Criteria, and Its Candidates
+================================================================
+
+درخواست سوم استاد به «کانون مصوب» اشاره داشت: الگویی که وقتی بارها تکرار شود، به‌عنوان کانونی پذیرفته می‌شود. در این کتاب، این مفهوم به‌صورت یک الگوی پایدار میان روایت‌ها تعریف می‌شود که در هر دو جهت تطبیق بازیابی شود و حداقل در سه روایت مستقل دیده شود (معیار پنج). چنین الگویی هنوز قانون جهانی نیست؛ تا وقتی در داده‌های بیرونی آزموده نشود، «نامزد کانون» نامیده می‌شود.
+The third request referred to the “established center”: a pattern that, once repeated often enough, is accepted as a center. In this book the concept is defined as a stable pattern across narratives that is retrievable in both directions and observed in at least three independent narratives (Criterion Five). Such a pattern is not yet a universal law; until it is tested on external data, it is called a candidate center.
+
+الگوی نامزد | روایت‌ها | شمار | وضعیت
+----------------------------------------
+پذیرش مسئولیت، سپس رهایی از مدار سرزنش | موسی؛ آدم؛ یونس | ۳ | نامزد کانون (واجد معیار پنجم)
+عمل هدفمند در شرایط نامساعد | نوح؛ یوسف؛ مریم | ۳ | نامزد کانون (واجد معیار پنجم)
+جهت انتساب نعمت یا خطا | سلیمان؛ قارون؛ آدم و ابلیس | ۳ | نامزد کانون (واجد معیار پنجم)
+دعا و شکایت به منبع | زکریا؛ ایوب | ۲ | زیر آستانه؛ نیازمند داده‌ی بیشتر
+رها کردن در برابر سناریوی ترس | مادر موسی؛ یعقوب | ۲ | زیر آستانه؛ به‌عنوان تقابل بررسی شد
+
+Candidate pattern | Narratives | Count | Status
+----------------------------------------
+Acceptance of responsibility, then release from the orbit of blame | Moses; Adam; Jonah | 3 | Candidate center (meets Criterion Five)
+Purposeful action under adverse conditions | Noah; Joseph; Mary | 3 | Candidate center (meets Criterion Five)
+Direction of attribution for blessing or error | Solomon; Qarun; Adam and Iblis | 3 | Candidate center (meets Criterion Five)
+Prayer and complaint addressed to the source | Zechariah; Job | 2 | Below threshold; needs more data
+Release versus the scenario of fear | Moses’ mother; Jacob | 2 | Below threshold; examined as a contrast
+
+از میان نامزدها، «جهت انتساب» قوی‌ترین الگوی مشترک است. در روایت‌های سلیمان و قارون، همان نعمت به دو منبع متفاوت نسبت داده می‌شود و نتیجه‌ی دو مسیر متفاوت است. در روایت آدم و ابلیس نیز جهت انتساب خطا، مسیر را تعیین می‌کند. بر پایه‌ی این مشاهده، فرض قابل آزمون چنین است: جهت انتساب، جهت چرخش را در بیشتر روایت‌ها تعیین می‌کند. این فرض به گزاره‌های P1، P6 و P11 پیوند دارد.
+Among the candidates, the direction of attribution is the strongest shared pattern. In the narratives of Solomon and Qarun, the same blessing is attributed to two different sources, and the outcomes of the two paths diverge. In the case of Adam and Iblis, the direction of attribution for error likewise determines the path. On the basis of this observation, a testable hypothesis follows: the direction of attribution determines the direction of the turn in most narratives. This hypothesis connects with propositions P1, P6, and P11.
+
+================================================================
+فصل دهم: ارزیابی ادعای نهایی، طراحی آزمون و نقد
+Chapter 10: Evaluating the Final Claim, Test Design, and Critique
+================================================================
+
+درخواست سوم استاد با ادعایی پایان می‌یافت: هرکس در هر نقطه‌ی جهان طبق این قوانین عمل کند، به نتیجه‌ی خواسته‌اش در زمان و مکان معلوم می‌رسد. این فصل، این ادعا را تجزیه می‌کند تا روشن شود کدام بخش آن آزمون‌پذیر است، کدام بخش داوری ارزشی یا فرامادی است، و چگونه می‌توان بخش آزمون‌پذیر را بی‌طرفانه سنجید.
+The third request ended with a claim: anyone who acts according to these laws, anywhere in the world, reaches the outcome they seek, at a known time and place. This chapter decomposes the claim to clarify which parts are testable, which parts are normative or metaphysical, and how the testable parts can be assessed impartially.
+
+۱۰.۱ تجزیه‌ی ادعا به سه سطح
+10.1 Decomposing the Claim into Three Levels
+
+گزاره‌ی ادعا | نوع | وضعیت علمی | روش سنجش
+----------------------------------------
+مسئولیت‌پذیری درونی با رفتار فعال‌تر همبسته است | رفتاری | آزمون‌پذیر | گزاره‌ی P1
+نوع ورودی‌های ذهنی با اضطراب و کمبود همبسته است | رفتاری | آزمون‌پذیر | گزاره‌ی P2
+توجه پیش از کار با تعهد بیشتر همراه است | رفتاری | آزمون‌پذیر | گزاره‌ی P3
+خواسته‌ی تعریف‌شده در چهار لایه شفاف‌تر است | رفتاری | آزمون‌پذیر | گزاره‌ی P10
+هرکس طبق این قوانین عمل کند، صددرصد به خواسته می‌رسد | علّی و قطعی | به شکل کنونی آزمون‌ناپذیر | بازنویسی به پیش‌بینی احتمالی با آستانه‌ی ابطال
+نتیجه‌ی خواسته در یک نظام الهی تضمین شده است | فرامادی | خارج از دامنه‌ی روش تجربی | ارزیابی به‌عنوان باور، نه یافته‌ی پژوهشی
+
+Component of the claim | Type | Scientific status | Method of assessment
+----------------------------------------
+Internal responsibility correlates with more active behavior | Behavioral | Testable | Proposition P1
+The type of mental inputs correlates with anxiety and scarcity | Behavioral | Testable | Proposition P2
+Attention before work is associated with greater commitment | Behavioral | Testable | Proposition P3
+A desire defined in four layers is clearer | Behavioral | Testable | Proposition P10
+Anyone acting by these laws attains the desire with certainty | Causal and absolute | Not testable in its present form | Rewritten as a probabilistic prediction with a falsification threshold
+The outcome of a desire is guaranteed within a divine system | Metaphysical | Outside the scope of experimental method | Evaluated as a belief, not as a research finding
+
+این تجزیه نشان می‌دهد که بخش عمده‌ی ادعا در سطح رفتاری قرار دارد و می‌توان آن را آزمود. بخش فرامادی ارزش باور دارد، اما نتیجه‌ی پژوهشی نیست و نباید به‌عنوان یافته‌ی علمی ارائه شود. ادعای قطعی بودن نتیجه نیز در شکل کنونی ابطال‌ناپذیر است، زیرا هیچ نتیجه‌ای را ممنوع نمی‌کند. از این رو، پیشنهاد می‌شود آن را به پیش‌بینی‌ای با آستانه‌ی روشن تبدیل کنیم: مثلاً اینکه گروهی که پروتکل کامل را اجرا می‌کند، نسبت به گروه کنترل فعال، در اهداف از پیش‌تعیین‌شده پیشرفت معناداری داشته باشد.
+This decomposition shows that the greater part of the claim lies at the behavioral level and can therefore be tested. The metaphysical component has value as a belief, but it is not a research finding and should not be presented as one. The claim of certainty is, in its present form, unfalsifiable, because it forbids no outcome. It is therefore proposed that it be converted into a prediction with a clear threshold: for example, that a group practicing the full protocol show meaningful progress on pre-specified goals relative to an active control group.
+
+۱۰.۲ طرح آزمون پیشنهادی
+10.2 A Proposed Test Design
+
+طرح پیشنهادی یک کارآزمایی تصادفی‌شده‌ی پیش‌ثبت‌شده با سه بازو است: بازوی یکم اجرای کامل شش‌مرحله‌ای و تمرین‌های فصل یازدهم؛ بازوی دوم کنترل فعال، یعنی برنامه‌ریزی ساختاریافته‌ی هدف بدون چارچوب معنوی؛ و بازوی سوم فهرست انتظار. نتایج در آغاز، پس از هشت هفته و در پیگیری شش‌ماهه سنجیده می‌شوند. متغیرهای اصلی عبارت‌اند از درجه‌ی دست‌یابی به هدف، خودکارآمدی، احساس کنترل، شکرگزاری و بهزیستی، همراه با ارزیابی کور پیامدها.
+The proposed design is a pre-registered randomized controlled trial with three arms: arm one performs the full seven-stage protocol and the exercises of Chapter 11; arm two is an active control, structured goal planning without the spiritual framing; and arm three is a waitlist control. Outcomes are measured at baseline, after eight weeks, and at six-month follow-up. The primary outcomes are goal attainment, self-efficacy, perceived control, gratitude, and well-being, assessed with blinded outcome assessors.
+
+برای برآورد حجم نمونه، با اندازه‌ی اثر متوسط، توان ۰٫۸ و سطح ۰٫۰۵ حدود شصت‌وچهار نفر در هر بازو لازم است. با احتساب ریزش بیست درصدی، حدود هفتادوهفت نفر در هر بازو برنامه‌ریزی می‌شود. تحلیل آماری با مدل‌های آمیخته‌ی اثر تصادفی و اصلاح چندگانگی آزمون (روش هولم) انجام می‌شود. معیار ابطال روشن است: اگر پروتکل کامل در آستانه‌ی پیش‌ثبت‌شده، بر کنترل فعال برتری معنادار نشان ندهد، ادعای ارزش افزوده‌ی ویژه‌ی این چارچوب رد می‌شود.
+For sample size, a medium effect, power of 0.80, and alpha of 0.05 require about sixty-four participants per arm. Allowing for twenty percent attrition, about seventy-seven participants per arm are planned. The statistical analysis uses mixed-effects models with random effects and corrects for multiple testing with the Holm procedure. The falsification criterion is explicit: if the full protocol does not show a meaningful advantage over the active control at the pre-registered threshold, the claim of a specific added value of this framework is rejected.
+
+۱۰.۳ خطرهای اخلاقی و راه‌های پیشگیری
+10.3 Ethical Risks and Safeguards
+
+  • خطر یک: سرزنش قربانیان؛ یعنی به کار بردن «صددرصد مسئولیت» برای بیماری، فقر، خشونت یا بلایای طبیعی. پیشگیری: مسئولیت را به توان انتخاب در زمان حال محدود کنیم و هرگز آن را به تقصیر قربانی تبدیل نکنیم
+  • خطر دو: وعده‌ی تضمین‌شده و سوءاستفاده‌ی مالی یا عاطفی. پیشگیری: در هیچ محتوایی زبان قطعیت نتیجه به کار نرود و هیچ هزینه‌ای برای تضمین گرفته نشود
+  • خطر سه: جایگزین شدن با درمان. پیشگیری: در مواقع نشانه‌های افسردگی، اضطراب شدید یا بحران، به متخصص ارجاع داده شود
+  • خطر چهار: سوگیری تأییدی در تفسیر. پیشگیری: کدگذاری کور، سنجش توافق کدگذاران و ثبت موارد ناهم‌خوان
+  • Risk one: victim-blaming, that is, applying “one hundred percent responsibility” to illness, poverty, violence, or natural disaster. Safeguard: limit responsibility to the capacity to choose in the present, and never convert it into a victim’s fault
+  • Risk two: promises of guaranteed results and financial or emotional exploitation. Safeguard: never use the language of certain outcomes, and never charge for guarantees
+  • Risk three: substitution for treatment. Safeguard: refer to a qualified professional whenever signs of depression, severe anxiety, or crisis appear
+  • Risk four: confirmation bias in interpretation. Safeguard: blind coding, measurement of inter-coder agreement, and recording of discordant cases
+
+۱۰.۴ محدودیت‌های این پژوهش
+10.4 Limitations of This Study
+
+  • محدودیت یک: نمونه‌ی سیزده‌تایی و انتخاب‌شده از جدول نمونه است و کل قرآن را نمایندگی نمی‌کند
+  • محدودیت دو: کدگذاری و تفسیر توسط نویسنده انجام شده و توافق کدگذاران سنجیده نشده است
+  • محدودیت سه: جست‌وجوی معکوس مستقل نبوده و دو مسیر در این نسخه تا حدی وابسته‌اند
+  • محدودیت چهار: مفاهیم روان‌شناختی با مفاهیم درون‌چارچوبی مدل نگاشت شده‌اند و این نگاشت خود نیاز به اعتبارسنجی دارد
+  • محدودیت پنج: ترجمه‌های انگلیسی آیات برگردان نویسنده است و معادل‌یابی واژگان کلیدی ممکن است تفاوت‌هایی داشته باشد
+  • محدودیت شش: متن درخواست‌های صوتی با سامانه‌ی خودکار رونویسی شده و خطاهای شنیداری آن از راه تطبیق با متون استاد اصلاح شده است، نه با شنیدن مستقل و حرفه‌ای
+  • Limitation one: the sample of thirteen is drawn from the sample table and does not represent the whole Quran
+  • Limitation two: coding and interpretation were performed by the author, and inter-coder agreement has not been measured
+  • Limitation three: the reverse search was not independent, so the two directions are partly dependent in this edition
+  • Limitation four: psychological constructs have been mapped onto the model’s in-framework concepts, and this mapping itself needs validation
+  • Limitation five: the English renderings of the verses are the author’s translations, and the equivalence of key terms may differ
+  • Limitation six: the audio requests were transcribed automatically, and transcription errors were corrected by cross-checking with the master’s texts rather than by professional listening
+
+================================================================
+فصل یازدهم: پروتکل عملی سی‌روزه
+Chapter 11: A Thirty-Day Practical Protocol
+================================================================
+
+این فصل برای کسانی نوشته شده که بخواهند مدل را در زندگی روزمره آزمایش کنند. پروتکل بر پایه‌ی گزاره‌های P1 تا P10 طراحی شده و هدف آن مشاهده‌ی رفتار و احساس خود فرد است، نه دستیابی به نتیجه‌ی تضمین‌شده. اگر در هر مرحله احساس فشار شدید، ناامیدی یا پریشانی پیدا کردید، کار را متوقف کنید و از متخصص کمک بگیرید.
+This chapter is written for readers who wish to test the model in daily life. The protocol is designed on the basis of propositions P1 to P10, and its aim is to observe one’s own behavior and feelings, not to obtain a guaranteed outcome. If at any stage you feel severe pressure, hopelessness, or distress, stop the practice and seek help from a qualified professional.
+
+۱۱.۱ روال روزانه
+11.1 The Daily Routine
+
+  • یک: صبح، جمله‌ی مسئولیت را به شکل سالم بیان کنید: «من در انتخاب پاسخ خود توانا هستم»
+  • دو: ده دقیقه ورودی‌های دیروز را مرور کنید و سه ورودی پرتأثیر را با اثر احساسی‌شان یادداشت کنید (P2)
+  • سه: پیش از شروع کار مهم، پنج دقیقه توجه صددرصد به هدف داشته باشید (P3)
+  • چهار: یک نشانه‌ی هدایت را در «دفتر هدایت» ثبت کنید، با شرح اینکه چه بود و چگونه دیده شد (P9)
+  • پنج: هفته‌ای سه نعمت حاضر را فهرست کنید (P7)
+  • شش: زبان خود را برای مسئولیت‌پذیری بازبینی کنید؛ گفتار «مقصر دیگران» را به گفتار «مسئولانه» تبدیل کنید (P8)
+  • هفت: شب، یکی از دوازده مانع را شناسایی کنید و یک پادزهر برای آن انتخاب کنید
+  • One: in the morning, state the responsibility sentence in a healthy form: “I am able to choose my response.”
+  • Two: spend ten minutes reviewing yesterday’s inputs, and note three high-impact inputs with their emotional effect (P2)
+  • Three: before an important task, give five minutes of full attention to the goal (P3)
+  • Four: record one sign of guidance in the “guidance journal”, describing what it was and how it was noticed (P9)
+  • Five: list three present blessings each week (P7)
+  • Six: review your language for responsibility, converting blame-shifting speech into responsible speech (P8)
+  • Seven: at night, identify one of the twelve obstacles and choose one antidote for it
+
+۱۱.۲ برنامه‌ی سی‌روزه بر اساس مراحل
+11.2 The Thirty-Day Plan by Stage
+
+هفته | تمرکز | تمرین اصلی | سنجش پیشنهادی
+----------------------------------------
+هفته‌ی یکم | مرحله‌ی یکم: مسئولیت | جمله‌ی مسئولیت و یادداشت تمایز مسئولیت از تقصیر | مقیاس ۱ تا ۷ برای احساس کنترل
+هفته‌ی دوم | مرحله‌ی دوم: ورودی‌ها | ممیزی ورودی‌ها و شناسایی موانع دوازدگانه | مقیاس اضطراب معتبر مانند GAD-7
+هفته‌ی سوم | مراحل سوم و چهارم: توجه و شکر | پنج دقیقه توجه پیش از کار و فهرست شکرگزاری | مقیاس تعهد به هدف و شکرگزاری
+هفته‌ی چهارم | مراحل پنجم و ششم: هدایت و تأیید | دفتر هدایت و بازبینی انتساب به منبع یا به خود | پرسش‌نامه‌ی سبک انتساب و مرور دفتر
+
+Week | Focus | Core practice | Suggested measure
+----------------------------------------
+Week one | Stage one: responsibility | The responsibility sentence and a note distinguishing responsibility from blame | A one-to-seven scale of perceived control
+Week two | Stage two: inputs | Audit of inputs and identification of the twelve obstacles | A validated anxiety measure such as GAD-7
+Week three | Stages three and four: attention and gratitude | Five minutes of attention before work and a gratitude list | Scales of goal commitment and gratitude
+Week four | Stages five and six: guidance and affirmation | The guidance journal and a review of attribution to source or to self | An attribution-style questionnaire and review of the journal
+
+در پایان سی روز، پرسش اصلی این است که آیا تغییر قابل‌مشاهده‌ای در احساس کنترل، توجه، شکرگزاری و پیگیری هدف دیده می‌شود، و آیا این تغییر به تمرین‌های مشخص مربوط است. پاسخ صادقانه‌ی این پرسش، معیار اعتبار عملی چارچوب است و نه وعده‌ای از پیش داده‌شده.
+At the end of thirty days, the central question is whether an observable change appears in perceived control, attention, gratitude, and pursuit of the goal, and whether that change is linked to the specific exercises. An honest answer to this question is the practical test of the framework, not a promise made in advance.
+
+================================================================
+فصل دوازدهم: پیشینه‌ی پژوهش و نسبت آموزه با دانش موجود
+Chapter 12: Research Background and the Teaching’s Relation to Existing Knowledge
+================================================================
+
+این فصل نشان می‌دهد که مؤلفه‌های چرخه‌ی تحقق خواسته در کدام حوزه‌های علمی ریشه دارند و کجا از آن‌ها فراتر می‌روند. سه حوزه‌ی اصلی عبارت‌اند از: روان‌شناسی مرکز کنترل و خودکارآمدی، پژوهش‌های شکرگزاری و بهزیستی، و نظریه‌ی کنش گفتاری درباره‌ی زبان.
+This chapter shows where the components of the Cycle of Desire Realization are rooted in established fields and where they go beyond them. Three main fields are relevant: the psychology of locus of control and self-efficacy, research on gratitude and well-being, and speech-act theory concerning language.
+
+۱۲.۱ مرکز کنترل و خودکارآمدی
+12.1 Locus of Control and Self-Efficacy
+
+مفهوم مرکز کنترل که جولیان راتر در سال ۱۹۶۶ معرفی کرد، میان باور به کنترل درونی و باور به کنترل بیرونی بر پیامدها تمایز می‌گذارد. گزاره‌ی P1 این تمایز را به زبان آموزه برمی‌گرداند. خودکارآمدی آلبرت بندورا (۱۹۹۷) نیز باور فرد به توان انجام رفتارهای لازم برای رسیدن به نتیجه را توضیح می‌دهد. نسبت آموزه با این دو مفهوم آن است که «مسئولیت» در چرخه به معنای توان انتخاب است، نه باور به کنترل کامل بر همه‌ی رویدادها. همین تمایز، مدل را از نسخه‌های ساده‌انگارانه‌ای جدا می‌کند که کنترل بر همه‌چیز را وعده می‌دهند.
+The concept of locus of control, introduced by Julian Rotter in 1966, distinguishes between the belief that outcomes are controlled internally and the belief that they are controlled externally. Proposition P1 translates this distinction into the teaching’s vocabulary. Albert Bandura’s self-efficacy (1997) explains a person’s belief in their capacity to perform the behaviors required to reach an outcome. The teaching relates to these concepts in that “responsibility” in the cycle means the capacity to choose, not a belief in full control over all events. This distinction separates the model from simplified versions that promise control over everything.
+
+۱۲.۲ شکرگزاری و بهزیستی
+12.2 Gratitude and Well-Being
+
+امونز و مک‌کالو (۲۰۰۳) در یک آزمایش، گروهی را که هفتگی نعمت‌ها را می‌نوشتند با گروه‌هایی مقایسه کردند که دردسرها یا رویدادهای خنثی را ثبت می‌کردند. گروه شکرگزاری رضایت بیشتری از زندگی گزارش کرد. این یافته در گزاره‌ی P7 بازتاب دارد. با این حال، این پژوهش‌ها اثر شکرگزاری را بر بهزیستی نشان می‌دهند، نه بر تحقق خواسته‌های بیرونی. از این رو، گزاره‌ی P6 یعنی تفسیر رویدادها به‌عنوان هدایت باید جداگانه سنجیده شود، زیرا تفسیر معنوی ممکن است پیامدهای روانی مثبت داشته باشد، حتی بی‌آنکه نتیجه‌ی بیرونی مورد انتظار رخ دهد.
+In an experiment, Emmons and McCullough (2003) compared participants who recorded their blessings weekly with groups who recorded hassles or neutral events, and the gratitude group reported higher life satisfaction. This finding is reflected in proposition P7. However, such studies show the effect of gratitude on well-being, not on the realization of external goals. Proposition P6, namely interpreting events as guidance, must therefore be assessed separately, because a spiritual interpretation may carry positive psychological effects even when the expected external outcome does not occur.
+
+۱۲.۳ کنش گفتاری و زبان مسئولانه
+12.3 Speech Acts and Responsible Language
+
+نظریه‌ی کنش گفتاری آستین (۱۹۶۲) نشان می‌دهد که گفتن می‌تواند خودش یک عمل باشد: وعده دادن، اعتراف کردن، دعا کردن و شکایت کردن. مشاهده‌ی چهارم فصل هفتم، یعنی غلبه‌ی کنش‌های گفتاری در نقاط چرخش، از همین چارچوب بهره می‌گیرد. پیوند با گزاره‌ی P8 آن است که «زبان مسئولانه» را می‌توان متغیری زبانی و قابل کدگذاری تعریف کرد، و این کار از راه تحلیل محتوای متن‌های فردی امکان‌پذیر است.
+Austin’s speech-act theory (1962) shows that speaking can itself be an act: promising, confessing, praying, and complaining. The fourth observation in Chapter 7, namely the prevalence of speech acts at turning points, draws on this framework. The link with proposition P8 is that “responsible language” can be defined as a coded linguistic variable, which is feasible through content analysis of personal texts.
+
+۱۲.۴ جایگاه مؤلفه‌ها در دانش موجود
+12.4 The Position of the Components in Existing Knowledge
+
+مؤلفه‌ی چرخه | حوزه‌ی علمی مرتبط | نسبت | شکاف پژوهشی
+----------------------------------------
+مسئولیت فردی | مرکز کنترل (راتر، ۱۹۶۶) | هم‌پوشانی جزئی؛ تمایز توان انتخاب از کنترل کامل | سنجش مستقل مسئولیت و تقصیر
+ورودی‌های ذهن | مصرف رسانه و اضطراب | همسو با پژوهش‌های مصرف رسانه، بدون ادعای علّی | طراحی آزمون پیش‌ثبت‌شده
+ارسال فرکانس (دعا و توجه) | دعا و توجه‌آگاهی | تفسیر معنوی فراتر از داده است | سنجش کمی توجه و تعهد
+شکرگزاری و تأیید | شکرگزاری و بهزیستی (امونز و مک‌کالو، ۲۰۰۳) | همسو با یافته‌های بهزیستی | نبود آزمون ارتباط با تحقق خواسته
+انتساب نعمت یا خطا | نظریه‌ی کنش گفتاری (آستین، ۱۹۶۲) و نظریه‌های انتساب | نسبت نزدیک؛ تمرکز بر جهت انتساب | تحلیل محتوای انتساب در جمعیت‌های گوناگون
+
+Component of the cycle | Related field | Relation | Research gap
+----------------------------------------
+Individual responsibility | Locus of control (Rotter, 1966) | Partial overlap; the distinction between the capacity to choose and full control | Independent measurement of responsibility and blame
+Mental inputs | Media exposure and anxiety research | Consistent with media-use studies, without causal claims | Pre-registered test design
+Sending frequency (prayer and attention) | Prayer and mindful attention | The spiritual reading goes beyond the data | Quantitative measurement of attention and commitment
+Gratitude and affirmation | Gratitude and well-being (Emmons and McCullough, 2003) | Consistent with well-being findings | No tested link to goal realization
+Attribution of blessing or error | Speech-act theory (Austin, 1962) and attribution theories | Close relation; focus on the direction of attribution | Content analysis of attribution across populations
+
+NOTE: جمع‌بندی این فصل: بخش‌هایی از چرخه در پژوهش‌های معتبر ریشه دارند، اما ادعای نهایی آموزه، یعنی قطعیت نتیجه، در هیچ‌یک از این حوزه‌ها تأیید نشده است. پژوهش آینده باید هر مؤلفه را جداگانه و با طرح مناسب بسنجد.
+NOTE: Summary of this chapter: parts of the cycle are rooted in established research, but the teaching’s final claim, the certainty of outcomes, has not been confirmed in any of these fields. Future research should examine each component separately, with an appropriate design.
+
+================================================================
+نتیجه‌گیری
+Conclusion
+================================================================
+
+سه درخواست صوتی استاد به‌طور کامل پاسخ داده شد. درخواست نخست، تجزیه‌ی سیزده روایت قرآنی در چارچوب هفت مرحله‌ی چرخه، با رمزگذاری نقطه‌ی چرخش، آیه، ایستگاه و درس انجام شد. درخواست دوم، جست‌وجوی معکوس از ایستگاه‌ها، شش ایستگاه را با آیات متناظر پوشش داد و ایستگاه هفتم را شکاف آشکار مدل نشان داد. درخواست سوم، تلفیق دو مسیر، شانزده تطبیق از هفده تطبیق ایستگاهی را سازگار یافت و سه نامزد کانون، یعنی مسئولیت و رهایی، عمل در شرایط نامساعد و جهت انتساب، را واجد معیار پنجم دانست.
+The three audio requests of the master have been answered in full. The first request, the decomposition of thirteen Quranic narratives within the seven stages of the cycle, was carried out through coding of the turning point, verse, station, and lesson. The second request, the reverse search from the stations, covered six stations with corresponding verses and revealed station seven as an evident gap in the model. The third request, the integration of both directions, found sixteen of seventeen station-level mappings consistent, and identified three candidate centers that meet Criterion Five: responsibility and release, purposeful action under adverse conditions, and the direction of attribution.
+
+ارزش اصلی این کتاب در سه چیز است: نخست، یک چارچوب روشن و قابل بحث برای خوانش داستان‌های قرآن؛ دوم، گونه‌شناسی نقاط چرخش و تحلیل تقابل‌ها، به‌ویژه تمایز جهت انتساب؛ و سوم، صورت‌بندی ادعاها به شکلی که بتوان آن‌ها را آزمود. ضعف اصلی آن کدگذاری غیرمستقل، نبود سنجش توافق کدگذاران و فقدان آزمون تجربی است. ادعای قطعی بودن نتیجه در شکل کنونی پذیرفتنی نیست و به پیش‌بینی‌ای آزمون‌پذیر با معیار ابطال بازنویسی شده است.
+The chief value of this book lies in three things. First, a clear and debatable framework for reading the narratives of the Quran. Second, a typology of turning points and an analysis of contrasting pairs, notably the distinction according to the direction of attribution. Third, the formulation of the claims in a form that can be tested. Its principal weaknesses are the non-independent coding, the absence of inter-coder agreement, and the lack of experimental testing. The claim of certain outcomes is not acceptable in its present form, and it has been rewritten as a testable prediction with an explicit falsification criterion.
+
+پیشنهاد می‌شود مراحل بعدی پژوهش شامل سه کار باشد: کدگذاری کور توسط پژوهشگری مستقل، گسترش نمونه به کل فهرست بیست‌وپنج پیامبر و داستان‌های دیگر، و اجرای کارآزمایی پیش‌ثبت‌شده‌ی فصل دهم. تنها در صورت گذر از این سه آزمون، می‌توان نامزدهای کانون را به کانون‌های مصوب تبدیل کرد.
+The next stages of research should comprise three tasks: blind coding by an independent investigator, extension of the sample to the full list of twenty-five prophets and the other narratives, and the execution of the pre-registered trial described in Chapter 10. Only after these three tests can the candidate centers be promoted to established centers.
+
+================================================================
+واژه‌نامه
+Glossary
+================================================================
+
+  • خواسته: هدفی که فرد در زمان حال آن را می‌خواهد و برای تحقق آن برنامه‌ریزی می‌کند
+  • غیب: امور نامشهودی که آثارشان در زندگی دیده می‌شود
+  • مسئولیت فردی: توان پاسخ‌گویی و انتخاب در زمان حال، متمایز از تقصیر
+  • ورودی‌های ذهن: آنچه از راه شنیدن، دیدن و تکرار درونی وارد ذهن می‌شود
+  • فرکانس: حالت توجه و احساسی که فرد به جهان منتقل می‌کند؛ استعاره‌ای درون‌چارچوبی
+  • سیستم رادیویی جهان: نظام قانون‌مند دریافت فرکانس‌ها در مدل
+  • هدایت: راهنمایی در قالب رویدادها و انسان‌ها که در مدل از دستان خدا دانسته می‌شود
+  • تأیید (صدق بالحسنی): پذیرش اینکه هدایت از سمت خداست
+  • نقطه‌ی چرخش: آیه یا لحظه‌ای که جهت روایت در آن تغییر می‌کند
+  • ایستگاه: مرحله‌ای از هفت‌گانه‌ی چرخه که یک آیه یا روایت به آن نسبت داده می‌شود
+  • کانون مصوب: الگوی پایدار و تکرارشونده میان روایت‌ها که در هر دو جهت تطبیق بازیابی شود
+  • نامزد کانون: الگویی که شرایط اولیه‌ی کانون را دارد اما هنوز در داده‌ی بیرونی آزموده نشده است
+  • جدول تطبیق: جدولی که برای هر شخص، نقطه‌ی چرخش، آیه، ایستگاه و درس را ثبت می‌کند
+  • جست‌وجوی معکوس: آغاز از ایستگاه و یافتن آیات متناظر با آن
+  • تلفیق: سنجش هم‌زمان دو مسیر و پذیرش تطبیق‌های سازگار در هر دو
+  • صبر (اصل یکم): فاصله‌ی زمانی میان آغاز کار و رسیدن به هدف
+  • صلات (اصل دوم): توجه و تمرکز صددرصد بر هدف
+  • سیر تکاملی و تصاعدی (اصل سوم): پیشرفت پلکانی به‌جای جهش ناگهانی
+  • موانع ذهنی (اصل چهارم): دوازده مانع یا پادزهر که در نمودار آمده است
+  • دفتر هدایت: یادداشت روزانه‌ی نشانه‌های هدایت
+  • توکل فعال و توکل منفعل: دو نیم‌رخ گزاره‌ی P11
+  • گزاره‌ی آزمون‌پذیر: فرضیه‌ای با رابطه‌ی پیش‌بینی‌شده و معیار ابطال روشن
+  • کنش گفتاری: عملی که با گفتن انجام می‌شود، مانند اعتراف، دعا یا شکایت
+  • سوگیری تأییدی: گرایش به خوانش داده بر اساس آنچه از پیش پذیرفته شده است
+  • کاپای کوهن: ضریب توافق میان کدگذاران برای داده‌های اسمی
+  • Desire: a goal that a person wants in the present and plans to realize
+  • The unseen (ghayb): unseen realities whose effects are observable in life
+  • Individual responsibility: the capacity to respond and choose in the present, distinct from blame
+  • Mental inputs: what enters the mind through hearing, seeing, and inner repetition
+  • Frequency: the attentional and emotional state a person transmits; an in-framework metaphor
+  • Universal radio system: the lawful system that receives frequencies in the model
+  • Guidance: direction that arrives through events and people, read in the model as coming from God’s hands
+  • Affirmation (sadaqa bi-l-husna): acceptance that guidance comes from God
+  • Turning point: the verse or moment at which the direction of a narrative changes
+  • Station: a stage of the seven-stage cycle to which a verse or narrative is assigned
+  • Established center: a stable, recurring pattern across narratives that is retrievable in both directions
+  • Candidate center: a pattern that meets the initial conditions of a center but has not yet been tested on external data
+  • Correspondence table: a table recording, for each figure, the turning point, verse, station, and lesson
+  • Reverse search: starting from a station and retrieving the verses that correspond to it
+  • Integration: the joint assessment of both directions, accepting correspondences that hold in both
+  • Patience (principle one): the time interval between starting and reaching the goal
+  • Salat (principle two): full attention and focus on the goal, in this book’s reading
+  • Evolutionary and exponential progression (principle three): stepwise growth rather than sudden leaps
+  • Mental obstacles (principle four): the twelve obstacles or antidotes listed in the diagram
+  • Guidance journal: a daily record of signs of guidance
+  • Active and passive trust: the two profiles in proposition P11
+  • Testable proposition: a hypothesis stated with a predicted relation and an explicit falsification criterion
+  • Speech act: an act performed by saying something, such as confession, prayer, or complaint
+  • Confirmation bias: the tendency to read data in line with what has already been accepted
+  • Cohen’s kappa: a coefficient of agreement between coders for nominal data
+
+================================================================
+فهرست آیات یادشده
+Index of Verses Cited
+================================================================
+
+  • بقره ۲:۳ (ایمان به غیب)
+  • الأعراف ۷:۱۶ (فبما أغويتني)
+  • الأعراف ۷:۲۳ (ظلمنا أنفسنا)
+  • یوسف ۱۲:۱۰ تا ۱۹ (ألقوه في غيابت الجب)
+  • یوسف ۱۲:۱۳ (أخاف أن يأكله الذئب)
+  • یوسف ۱۲:۱۸ (فصبر جميل)
+  • مریم ۱۹:۴ (لم أكن بدعائك رب شقيا)
+  • مریم ۱۹:۲۵ (وهزي إليك بجذع النخلة)
+  • هود ۱۱:۳۷ و ۳۸ (واصنع الفلك؛ ويصنع الفلك)
+  • القصص ۲۸:۷ (فألقيه في اليم)
+  • القصص ۲۸:۲۴ (رب إني لما أنزلت إلي من خير فقير)
+  • القصص ۲۸:۷۸ (إنما أوتيته على علم عندي)
+  • الأنبیاء ۲۱:۶۹ (يا نار كوني بردا وسلاما)
+  • الأنبیاء ۲۱:۸۳ (مسني الضر وأنت أرحم الراحمين)
+  • الأنبیاء ۲۱:۸۷ (لا إله إلا أنت سبحانك)
+  • النمل ۲۷:۴۰ (هذا من فضل ربي)
+  • Al-Baqara 2:3 (faith in the unseen)
+  • Al-A’raf 7:16 (because You led me astray)
+  • Al-A’raf 7:23 (we have wronged ourselves)
+  • Yusuf 12:10 to 19 (throw him into the depths of the well)
+  • Yusuf 12:13 (I fear the wolf may devour him)
+  • Yusuf 12:18 (patient beauty)
+  • Maryam 19:4 (I have never been unblessed in calling upon You)
+  • Maryam 19:25 (shake the trunk of the palm tree toward you)
+  • Hud 11:37 and 38 (build the ark; he was building the ark)
+  • Al-Qasas 28:7 (cast him into the river)
+  • Al-Qasas 28:24 (my Lord, I am in need of whatever good You send down)
+  • Al-Qasas 28:78 (I was given it because of knowledge in my possession)
+  • Al-Anbiya 21:69 (O fire, be cool and safe)
+  • Al-Anbiya 21:83 (harm has touched me)
+  • Al-Anbiya 21:87 (there is no god but You)
+  • Al-Naml 27:40 (this is from the favor of my Lord)
+
+================================================================
+منابع
+References
+================================================================
+
+  • قرآن کریم، متن عربی همراه با ترجمه‌های فارسی و انگلیسی (برگردان‌های این کتاب از نویسنده است)
+  • Austin, J. L. (1962). How to Do Things with Words. Oxford: Clarendon Press
+  • Bandura, A. (1997). Self-efficacy: The Exercise of Control. New York: W. H. Freeman
+  • Cohen, J. (1960). A coefficient of agreement for nominal scales. Educational and Psychological Measurement, 20(1), 37–46
+  • Emmons, R. A., & McCullough, M. E. (2003). Counting blessings versus burdens. Journal of Personality and Social Psychology, 84(2), 377–389
+  • Holm, S. (1979). A simple sequentially rejective multiple test procedure. Scandinavian Journal of Statistics, 6(2), 65–70
+  • Rotter, J. B. (1966). Generalized expectancies for internal versus external control of reinforcement. Psychological Monographs, 80(1)
+  • Spitzer, R. L., Kroenke, K., Williams, J. B. W., & Löwe, B. (2006). A brief measure for assessing generalized anxiety disorder: The GAD-7. Archives of Internal Medicine, 166(10), 1092–1097
+  • بستین، نصرالله (استاد حاج نصرالله باستین): «چرخه‌ی تحقق خواسته در آینه‌ی قرآن»، متن منتشرشده در مخزن درخواست‌های پژوهشی (کتابچه تازه)
+  • نمودار «چرخه‌ی تحقق خواسته» و صفحه‌ی ۲۱۳ کتاب «هفت ایستگاه غیب» با جدول تطبیق (تصاویر نمونه‌ی درخواست)
+  • دانشنامه‌ی اسلامی، مدخل «قصه‌های قرآن» (فهرست پیامبران و داستان‌ها)
+  • سه پیام صوتی درخواست پژوهشی (مخزن درخواست تحقیق)
+  • Quran, Arabic text with Persian and English renderings (the renderings in this book are by the author)
+  • Austin, J. L. (1962). How to Do Things with Words. Oxford: Clarendon Press
+  • Bandura, A. (1997). Self-efficacy: The Exercise of Control. New York: W. H. Freeman
+  • Cohen, J. (1960). A coefficient of agreement for nominal scales. Educational and Psychological Measurement, 20(1), 37–46
+  • Emmons, R. A., and McCullough, M. E. (2003). Counting blessings versus burdens. Journal of Personality and Social Psychology, 84(2), 377–389
+  • Holm, S. (1979). A simple sequentially rejective multiple test procedure. Scandinavian Journal of Statistics, 6(2), 65–70
+  • Rotter, J. B. (1966). Generalized expectancies for internal versus external control of reinforcement. Psychological Monographs, 80(1)
+  • Spitzer, R. L., Kroenke, K., Williams, J. B. W., and Löwe, B. (2006). A brief measure for assessing generalized anxiety disorder: The GAD-7. Archives of Internal Medicine, 166(10), 1092–1097
+  • Bastin, Nasrollah (Master Haj Nasrollah Bastin): “The Cycle of Desire Realization in the Mirror of the Quran”, published text in the research repository (Ketabche Taze)
+  • The diagram “The Cycle of Desire Realization” and page 213 of “The Seven Stations of the Unseen” with the correspondence table (sample images of the request)
+  • Islamic encyclopedia, entry “Stories of the Quran” (list of prophets and narratives)
+  • Three audio research requests (research request folder)
+
+================================================================
+یادداشت درباره‌ی درخواست‌های صوتی و منابع دیگر
+Note on the Audio Requests and Other Sources
+================================================================
+
+سه درخواست صوتی به ترتیب ۷۹، ۴۰ و ۶۸ ثانیه‌اند. نخستین پیام تجزیه‌ی داستان‌های قرآنی را در هفت مرحله خواسته است؛ دومین پیام جست‌وجوی معکوس آیات برای هر ایستگاه و مقایسه‌ی آن با جدول نمونه را؛ و سومین پیام ترکیب دو خروجی برای دقت بیشتر و شناسایی الگوها و کانون مصوب را. رونویسی خودکار با مدل فارسی whisper-small-persian (AmirMohseni) انجام شد و خطاهای فراوان داشت؛ معنای نهایی با مقایسه‌ی متن‌های استاد و نمودار چرخه بازسازی شد. متن‌های دیگر مخزن، از جمله «غیب در آینه‌ی قرآن» و فایل «هفت ایستگاه غیب»، در این نسخه تحلیل تفصیلی نشده‌اند و برای نسخه‌های بعدی پیشنهاد می‌شوند.
+The three audio requests last 79, 40, and 68 seconds. The first asks for the decomposition of the Quranic narratives into the seven stages. The second asks for the reverse search of verses for each station and their comparison with the sample table. The third asks for the combination of both outputs to gain precision and to identify patterns and an established center. Automatic transcription with the Persian speech-to-text model whisper-small-persian (AmirMohseni) was performed and contained many errors; the final meaning was reconstructed by comparing the master’s texts and the cycle diagram. Other texts in the repository, including “Ghayb dar Ayene-ye Quran” and the file “Haft Istgah-e Ghayb”, have not been analyzed in detail in this edition and are proposed for subsequent editions.
+
+================================================================
+پیوست‌ها
+Appendices
+================================================================
+
+پیوست الف: برگه‌ی کدگذاری یک روایت
+Appendix A: Coding Sheet for a Single Narrative
+
+فیلد | توضیح | نمونه (یوسف ۱۲:۱۰ تا ۱۹)
+----------------------------------------
+نام شخص یا قوم | نام کامل روایت | یوسف
+نقطه‌ی چرخش | عبارت قرآنی که جهت روایت را تغییر می‌دهد | «ألقوه في غيابت الجب»
+شماره‌ی آیه | ارجاع دقیق | ۱۲:۱۰ تا ۱۹
+ایستگاه | یک یا چند ایستگاه بر پایه‌ی قاعده‌ی یک | ۴ و ۵
+کارکرد غالب | کارکرد اصلی در یک جمله | بن‌بست به‌عنوان بخشی از مسیر دریافت
+درس | دستورالعمل قابل استخراج | بن‌بست‌ها در مسیر هدایت‌اند
+شاهد متنی | دو یا سه عبارت که حکم را پشتیبانی می‌کنند | کاروان، خریدار، آزادی
+بازیابی معکوس | آیا از ایستگاه نیز بازیابی می‌شود؟ | بله (معیار چهار)
+
+Field | Description | Example (Yusuf 12:10 to 19)
+----------------------------------------
+Name of person or people | Full name of the narrative | Yusuf
+Turning point | The Quranic phrase at which the direction changes | “Throw him into the depths of the well”
+Verse number | Precise reference | 12:10 to 19
+Station | One or more stations under rule one | 4 and 5
+Dominant function | The main function, stated in one sentence | The dead end as part of the path of reception
+Lesson | A derivable instruction | Dead ends lie on the path of guidance
+Textual evidence | Two or three phrases supporting the coding | Caravan, buyer, release
+Reverse retrieval | Is the correspondence retrieved from the station as well? | Yes (Criterion Four)
+
+پیوست ب: برگه‌ی دفتر هدایت
+Appendix B: Guidance Journal Template
+
+تاریخ | ورودی یا رویداد | نشانه‌ی هدایت (شرح) | ایستگاه پیشنهادی | احساس پس از ثبت
+----------------------------------------
+روز ۱ | — | — | — | —
+روز ۲ | — | — | — | —
+روز ۳ | — | — | — | —
+روز ۴ | — | — | — | —
+روز ۵ | — | — | — | —
+روز ۶ | — | — | — | —
+روز ۷ | — | — | — | —
+روز ۸ | — | — | — | —
+روز ۹ | — | — | — | —
+روز ۱۰ | — | — | — | —
+
+Date | Input or event | Sign of guidance (description) | Suggested station | Feeling after recording
+----------------------------------------
+Day 1 | — | — | — | —
+Day 2 | — | — | — | —
+Day 3 | — | — | — | —
+Day 4 | — | — | — | —
+Day 5 | — | — | — | —
+Day 6 | — | — | — | —
+Day 7 | — | — | — | —
+Day 8 | — | — | — | —
+Day 9 | — | — | — | —
+Day 10 | — | — | — | —
+
+پیوست پ: جدول پیگیری سی‌روزه
+Appendix C: Thirty-Day Tracker
+
+روز | مرحله‌ی تمرکز | انجام شد؟ | احساس کنترل (۱ تا ۷) | یادداشت
+----------------------------------------
+۱ | مسئولیت | — | — | —
+۲ | مسئولیت | — | — | —
+۳ | مسئولیت | — | — | —
+۴ | مسئولیت | — | — | —
+۵ | مسئولیت | — | — | —
+۶ | مسئولیت | — | — | —
+۷ | مسئولیت | — | — | —
+۸ | ورودی‌ها | — | — | —
+۹ | ورودی‌ها | — | — | —
+۱۰ | ورودی‌ها | — | — | —
+۱۱ | ورودی‌ها | — | — | —
+۱۲ | ورودی‌ها | — | — | —
+۱۳ | ورودی‌ها | — | — | —
+۱۴ | ورودی‌ها | — | — | —
+۱۵ | توجه و شکر | — | — | —
+۱۶ | توجه و شکر | — | — | —
+۱۷ | توجه و شکر | — | — | —
+۱۸ | توجه و شکر | — | — | —
+۱۹ | توجه و شکر | — | — | —
+۲۰ | توجه و شکر | — | — | —
+۲۱ | توجه و شکر | — | — | —
+۲۲ | هدایت و تأیید | — | — | —
+۲۳ | هدایت و تأیید | — | — | —
+۲۴ | هدایت و تأیید | — | — | —
+۲۵ | هدایت و تأیید | — | — | —
+۲۶ | هدایت و تأیید | — | — | —
+۲۷ | هدایت و تأیید | — | — | —
+۲۸ | هدایت و تأیید | — | — | —
+۲۹ | هدایت و تأیید | — | — | —
+۳۰ | هدایت و تأیید | — | — | —
+
+Day | Focus stage | Done? | Perceived control (1 to 7) | Notes
+----------------------------------------
+1 | Responsibility | — | — | —
+2 | Responsibility | — | — | —
+3 | Responsibility | — | — | —
+4 | Responsibility | — | — | —
+5 | Responsibility | — | — | —
+6 | Responsibility | — | — | —
+7 | Responsibility | — | — | —
+8 | Inputs | — | — | —
+9 | Inputs | — | — | —
+10 | Inputs | — | — | —
+11 | Inputs | — | — | —
+12 | Inputs | — | — | —
+13 | Inputs | — | — | —
+14 | Inputs | — | — | —
+15 | Attention and gratitude | — | — | —
+16 | Attention and gratitude | — | — | —
+17 | Attention and gratitude | — | — | —
+18 | Attention and gratitude | — | — | —
+19 | Attention and gratitude | — | — | —
+20 | Attention and gratitude | — | — | —
+21 | Attention and gratitude | — | — | —
+22 | Guidance and affirmation | — | — | —
+23 | Guidance and affirmation | — | — | —
+24 | Guidance and affirmation | — | — | —
+25 | Guidance and affirmation | — | — | —
+26 | Guidance and affirmation | — | — | —
+27 | Guidance and affirmation | — | — | —
+28 | Guidance and affirmation | — | — | —
+29 | Guidance and affirmation | — | — | —
+30 | Guidance and affirmation | — | — | —
+
+NOTE: استفاده از این برگه‌ها برای تمرین شخصی است و جایگزین ارزیابی تخصصی نیست. اگر در طول پیگیری احساس ناامیدی شدید، بی‌خوابی یا فکر آسیب به خود پیدا کردید، فوراً با یک متخصص سلامت روان یا پزشک تماس بگیرید.
+NOTE: These sheets are for personal practice and do not replace professional assessment. If during the tracking period you experience severe hopelessness, insomnia, or thoughts of self-harm, contact a mental health professional or physician immediately.
+
+پیوست ت: تعریف عملیاتی و نشانه‌های هر ایستگاه
+Appendix D: Operational Definitions and Indicators of Each Station
+
+برای آنکه دو کدگذار مستقل به نتیجه‌ی مشابهی برسند، هر ایستگاه باید تعریف عملیاتی و نشانه‌های متنی روشن داشته باشد. جدول زیر این تعریف‌ها را بر اساس نمونه‌ی سیزده‌تایی ارائه می‌کند. نشانه‌های متنی واژه‌ها یا ساختارهایی هستند که در متن دیده می‌شوند؛ نشانه‌ی خلاف، ساختاری است که اگر ظاهر شود، کدگذار باید ایستگاه را بازبینی کند.
+For two independent coders to reach similar results, each station needs a clear operational definition and textual indicators. The table below provides these definitions based on the thirteen-narrative sample. Textual indicators are words or structures observable in the text; a counter-indicator is a structure whose appearance requires the coder to reconsider the station.
+
+ایستگاه | تعریف عملیاتی | نشانه‌های متنی | نشانه‌ی خلاف | نمونه‌ی مرجع
+----------------------------------------
+۱ مسئولیت فردی | پذیرش مسئولیت در زمان حال | اعتراف، درخواست، «ظلمنا» و «رب إني» | حواله‌ی کامل مسئولیت به بیرون | موسی، آدم، یونس
+۲ ورودی‌های ذهن | کنترل تصویر و گفتار درونی درباره‌ی آینده | ترس، نگرانی، تصویر آینده‌ی منفی | تمرکز بر هدف و آرامش | یعقوب
+۳ ارسال فرکانس | گفتار یا دعای توجه‌آگاه به سوی منبع | دعا، نجوا، شکایت خطاب به منبع | شکایت بدون خطاب یا بدون امید | زکریا، ایوب
+۴ سیستم رادیویی | عمل یا پذیرش در بستر نظم الهی | ساختن، ماندن، ادامه‌ی عمل در شرایط سخت | عمل بی‌نظم یا رهاسازی بدون برنامه | نوح، ابراهیم، یوسف
+۵ هدایت | ظهور راه‌حل در رویداد یا از راه انسان | رها کردن، راهنمایی، ظهور واسطه | شانس‌انگاری بدون نشانه‌ی قابل ثبت | مادر موسی، مریم، یوسف
+۶ تأیید | انتساب نعمت به منبع یا شکر در اوج نعمت | شکر، «من فضل ربی»، «علی علم عندی» | خودستایی و انتساب نعمت به خود | سلیمان، قارون، مریم
+۷ تحقق خواسته | پیامد مشهود و آغاز هدف بعدی | رسیدن به نتیجه و طرح هدف تازه | پایان بدون آغاز | هیچ روایتی در نمونه ثبت نشده است
+
+Station | Operational definition | Textual indicators | Counter-indicator | Reference case
+----------------------------------------
+1 Individual responsibility | Acceptance of responsibility in the present | Confession, request, “we have wronged ourselves”, and “my Lord, I” | Complete shifting of responsibility outward | Moses, Adam, Jonah
+2 Mental inputs | Control of images and inner speech about the future | Fear, worry, negative image of the future | Focus on the goal and calm | Jacob
+3 Sending frequency | Attentive speech or prayer directed to the source | Prayer, murmured address, complaint addressed to the source | Complaint without address or without hope | Zechariah, Job
+4 Radio system | Action or acceptance within a divine order | Building, enduring, continuing action under hardship | Disorderly action or unplanned release | Noah, Abraham, Joseph
+5 Guidance | A solution appearing through events or people | Release, guidance, the appearance of an intermediary | Attributing events to chance without a recordable sign | Moses’ mother, Mary, Joseph
+6 Affirmation | Attribution of blessing to its source, or gratitude at the height of blessing | Gratitude, “this is from the favor of my Lord”, “I was given it because of knowledge” | Self-praise and attribution of blessing to oneself | Solomon, Qarun, Mary
+7 Realization | A visible outcome and the start of the next goal | Reaching a result and formulating a new goal | An ending without a new beginning | No narrative in the sample is recorded here
+
+پیوست ث: طرح تحلیل داده‌ها برای کارآزمایی پیشنهادی
+Appendix E: Data Analysis Plan for the Proposed Trial
+
+طرح زیر متغیرهای اصلی، ابزار سنجش، زمان‌های اندازه‌گیری و مدل آماری کارآزمایی پیشنهادی (فصل دهم) را فهرست می‌کند. انتخاب نهایی ابزارها باید پیش از شروع پژوهش با اعتبارسنجی محلی تأیید شود، و تمامی تحلیل‌ها باید پیش از جمع‌آوری داده‌ها پیش‌ثبت شوند.
+The plan below lists the main variables, measurement instruments, time points, and statistical models of the proposed trial (Chapter 10). The final choice of instruments must be confirmed through local validation before the study begins, and all analyses must be pre-registered before data collection.
+
+متغیر | ابزار سنجش | زمان سنجش | مدل آماری
+----------------------------------------
+درجه‌ی دست‌یابی به هدف | مقیاس دست‌یابی به هدف (Goal Attainment Scaling) | پایه، هشت هفته، شش ماه | مدل آمیخته با اثر تصادفی
+خودکارآمدی | مقیاس معتبر خودکارآمدی عمومی | پایه و هشت هفته | مدل آمیخته با اثر تصادفی
+احساس کنترل | پرسش‌های ۱ تا ۷ درباره‌ی کنترل درونی ادراک‌شده | پایه، هشت هفته، شش ماه | مدل آمیخته با اثر تصادفی
+شکرگزاری | پرسش‌نامه‌ی معتبر شکرگزاری | پایه و هشت هفته | مدل آمیخته با اثر تصادفی
+اضطراب | مقیاس GAD-7 | پایه، هشت هفته، شش ماه | مدل آمیخته با اصلاح هولم
+بهزیستی | مقیاس رضایت از زندگی | پایه، هشت هفته، شش ماه | مدل آمیخته با اصلاح هولم
+پایایی کدگذاری | ضریب کاپای کوهن بین دو کدگذار | پس از کدگذاری | گزارش توافق و فاصله‌ی اطمینان
+
+Variable | Measurement instrument | Time points | Statistical model
+----------------------------------------
+Goal attainment | Goal Attainment Scaling | Baseline, eight weeks, six months | Mixed-effects model with random effects
+Self-efficacy | A validated general self-efficacy scale | Baseline and eight weeks | Mixed-effects model with random effects
+Perceived control | One-to-seven items on perceived internal control | Baseline, eight weeks, six months | Mixed-effects model with random effects
+Gratitude | A validated gratitude questionnaire | Baseline and eight weeks | Mixed-effects model with random effects
+Anxiety | GAD-7 scale | Baseline, eight weeks, six months | Mixed model with Holm correction
+Well-being | Life satisfaction scale | Baseline, eight weeks, six months | Mixed model with Holm correction
+Coding reliability | Cohen’s kappa between two independent coders | After coding | Report of agreement with confidence interval
+
+NOTE: هیچ‌یک از این ابزارها هنوز در جمعیت هدف این کتاب اعتبارسنجی نشده است. انتخاب نهایی باید بر پایه‌ی مطالعه‌ی مقدماتی و با نظر کارشناسان روان‌سنجی انجام شود.
+NOTE: None of these instruments has yet been validated in this book’s target population. The final selection must rest on a preliminary study and the judgment of psychometric experts.
